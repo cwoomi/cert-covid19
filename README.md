@@ -66,6 +66,14 @@ Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es g
   - [RKI zur Mehrfachverwendung von Masken bei
     Engpässen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ressourcen_schonen_Masken.pdf?_blob=publicationFile)
 
+#### Diagnostik
+
+- [Übersicht über RKI-Diagnostik-Flowcharts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_Tab.html)
+- [RKI-Diagnostik-Flowchart als PDF zum Ausdrucken](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf?__blob=publicationFile)
+- [RKI-Flowchart-App für Ärzte](http://multimedia.gsb.bund.de/RKI/Flowcharts/covid19-arzt/)
+- [Symptoms near the time of presentation in various cohorts, via emcrit](https://i1.wp.com/emcrit.org/wp-content/uploads/2020/03/sxjpg.jpg)
+
+
 
 #### Therapie
 
