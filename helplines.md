@@ -99,6 +99,7 @@ informieren kann.
 | **Ort**  | **Stelle**          | **Telefonnummer** | **Öffnungszeiten**                                | **Anmerkungen**               |
 | -------- | ------------------- | ----------------- | ------------------------------------------------- | ----------------------------- |
 | Hannover | IHK                 | 0511/3107-468     | Mo - Do, 08.00 - 16.00 Uhr & Fr 08.00 - 14.00 Uhr | Informationen für Unternehmen |
+| Osnabrück | Gesundheitsdienstes Landkreis und Stadt    | 0541 501-1111     | Montag bis Freitag von 9 bis 17 Uhr, Wochenende von 9 bis 13 Uhr | nur für medizinische Fragen |
 | Stadt    | z.B. Gesundheitsamt | xxxx - xxxxxx     | z.B. mo - fr, 7:00 - 18:00 Uhr                    | was bieten die an?            |
 
 
