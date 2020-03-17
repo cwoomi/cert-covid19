@@ -343,7 +343,102 @@ TBD
 
 #### Veranstaltungslimitierungen
 
-TBD
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Bundesland</p></th>
+<th><p>Regelung</p></th>
+<th><p>Gültig bis</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Bayern</p></td>
+<td><p>ab 16.03.2020: alle nicht notwendigen Veranstaltungen sind verboten<br />
+bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte individuell deutlich weniger (z.B. Nürnberg: 100)</p></td>
+<td><p>unbefristet</p></td>
+</tr>
+<tr class="even">
+<td><p>Baden-Württemberg</p></td>
+<td><p>&lt;100 Personen: Untersagung durch zuständige Behörde nach Risikoanalyse möglich &gt;100 Personen: grundsätzliche Untersagung der Veranstaltung, genehmigung unter Auflagen bei wichtigem Grund möglich</p></td>
+<td><p>15.06.2020</p></td>
+</tr>
+<tr class="odd">
+<td><p>Berlin</p></td>
+<td><p>&lt;50 Personen: Erfassung von Personaldaten, vollständige Anschrift und Telefonnummer &gt;50 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>19.04.2020</p></td>
+</tr>
+<tr class="even">
+<td><p>Brandenburg</p></td>
+<td><p>100 - 1000 Personen: Namentliche Anzeige der Veranstaltung erforderlich &gt;1000 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>unbefristet</p></td>
+</tr>
+<tr class="odd">
+<td><p>Bremen</p></td>
+<td><p>&lt;1000 Personen: Besondere Hygiene und Frischluftauflagen &gt;1000 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>26.03.2020</p></td>
+</tr>
+<tr class="even">
+<td><p>Hamburg</p></td>
+<td><p>&gt;1000 Personen: Untersagung der Veranstaltung Untersagung von Veranstaltugnen im Großen Saal der Elbphilharmonie</p></td>
+<td><p>30.04.2020</p></td>
+</tr>
+<tr class="odd">
+<td><p>Hessen</p></td>
+<td><p>&gt;100 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>19.04.2020</p></td>
+</tr>
+<tr class="even">
+<td><p>Mecklenburg-Vorpommern</p></td>
+<td><p>&lt;1000 Personen: Kritische Prüfung der RKI-Kriterien bei der Risikobewertung &gt;1000 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>19.04.2020</p></td>
+</tr>
+<tr class="odd">
+<td><p>Niedersachsen</p></td>
+<td><p>Kein Veranstaltungsverbot, Gesundheitsämter sind angehalten kritisch zu Prüfen und das mildeste Mittel zu wählen.</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Nordrhein-Westfalen</p></td>
+<td><p>&lt;1000 Personen: indiv. Gefahrenanalyse &gt;1000 Personen: Untersagung der Veranstaltung oder Durchführung ohne Zuschauerbeteiligung</p></td>
+<td><p>unbefristet</p></td>
+</tr>
+<tr class="odd">
+<td><p>Rheinland-Pfalz</p></td>
+<td><p>&gt;75 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>Ostern</p></td>
+</tr>
+<tr class="even">
+<td><p>Saarland</p></td>
+<td><p>Aktuell keine Limitierungen</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Sachsen</p></td>
+<td><p>&lt;1000 Personen: Restriktive Anwendung der RKI-Kriterien zur Risikobewertung &gt;1000 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>unbefristet</p></td>
+</tr>
+<tr class="even">
+<td><p>Sachsen-Anhalt</p></td>
+<td><p>&lt;500 Personen: indiv. Gefahrenanalyse<br />
+500-1000 Personen: Restriktive Behandlung bei der Risikobewertung<br />
+&gt;1000 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>unbefristet</p></td>
+</tr>
+<tr class="odd">
+<td><p>Thüringen</p></td>
+<td><p>&lt;50 Personen Personen: Verhängung von restriktiven Auflagen<br />
+&gt;50 Personen: Untersagung der Veranstaltung</p></td>
+<td><p>10.04.2020</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
 #### Sonstiges
