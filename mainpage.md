@@ -182,7 +182,7 @@ TBD
  - [Senatsbeschlüsse](https://www.berlin.de/aktuelles/berlin/6108959-958092-coronavirus-massnahmen-berlin.html)
   - [Hochschulen
     schließen](https://www.berlin.de/sen/wissenschaft/aktuelles/pressemitteilungen/2020/pressemitteilung.906846.php)
-  - [### Geändert/Ersetzt
+  - [**Geändert/Ersetzt
     Veranstaltungsverbot](https://www.berlin.de/sen/gpg/service/presse/2020/allgverfg_grossveranstaltungen.pdf)
   - [14.03.2020
     Eindämmungsverordnung](https://www.berlin.de/rbmskzl/_assets/aktuelles/2020/maerz/rv-corona-20200314-endg.pdf)
@@ -209,22 +209,22 @@ TBD
 
  - [Senatsbeschluss zu
     Schließungen](https://www.hamburg.de/coronavirus/13719080/senat-beschluss-coronavirus/)
-  - [### Aufgehoben/Ersetzt Veranstaltungsverbot über 1000
+  - [**Aufgehoben/Ersetzt** Veranstaltungsverbot über 1000
     Personen](https://www.hamburg.de/contentblob/13707254/1dbc2003a694afd9e16c4865f05655d8/data/allgemeinverfuegung-veranstaltungen.pdf)
   - [Verbot öffentlicher und privater Veranstaltungen mit wenigen
     Ausnahmen](https://www.hamburg.de/contentblob/13721244/478958bdded12fd2f8ebc6769f327079/data/2020-03-15-pdf-allgemeinverfuegung.pdf)
 
 ###### Hessen
 
-  - [### Ergänzt Verordnung zur Bekämpfung des Corona-Virus
+  - [**Ergänzt** Verordnung zur Bekämpfung des Corona-Virus
     13.03.2020](https://www.hessen.de/sites/default/files/media/2020-03-13_eil_vo_absonderung_funktionspersonal_ausgefertigt_003.pdf)
-  - [### Ergänzt Zweite Verordnung zur Bekämpfung des Corona-Virus
+  - [**Ergänzt** Zweite Verordnung zur Bekämpfung des Corona-Virus
     13.03.2020](https://www.hessen.de/sites/default/files/media/2020-03-13_eil_vo_besuchsverbot_ausgefertigt.pdf)
   - [Dritte Verordnung zur Bekämpfung des Corona-Virus
     14.03.2020](https://www.hessen.de/sites/default/files/media/hessen.de_land/verordnung_zu_veranstaltungen.pdf)
   - [Veranstaltungsverbot
     14.03.2020](https://www.hessen.de/sites/default/files/media/hessen.de_land/verordnung_zu_veranstaltungen.pdf)
-  - [### Aufgehoben/Ersetzt Veranstaltungsverbot
+  - [**Aufgehoben/Ersetzt** Veranstaltungsverbot
     12.03.2020](https://soziales.hessen.de/sites/default/files/media/hsm/erlass_von_allgemeinverfuegungen_zum_verbot_von_grossveranstaltungen.pdf)
   - [Alle Beschlüsse des Landes Hessen in
     Kurzübersicht](https://www.hessen.de/presse/pressemitteilung/wir-muessen-die-ausbreitung-der-infektionen-verlangsamen)
@@ -300,9 +300,9 @@ TBD
 
 
 ###### Thüringen
- - [### Gültig 14.04.2020 Richtlinie zu
+ - [**Gültig 14.03.2020** Richtlinie zu
     Veranstaltungen](https://www.mdr.de/thueringen/coronavirus-thueringen-erlass-veranstaltungen-100-downloadFile.pdf)
-  - [### Aufgehoben/Ersetzt 10.03.2020 Richtlinie zu
+  - [**Aufgehoben/Ersetz**t 10.03.2020 Richtlinie zu
     Veranstaltungen](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/Anlage_Orientierung_fuer_Menschenansammlungen.pdf)
   - [Verbot von Veranstaltungen mit mehr als 1000
     Personen](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20201003_Erlass_TLVwA_Corona.pdf)
