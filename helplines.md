@@ -49,7 +49,7 @@ informieren kann.
 | Brandenburg | Bundesgesundheitsministeriums | \+49 03 3464 65100 | Keine Angabe       | Telefon-Hotline Coronavirus | <https://www.inforadio.de/dossier/2020/coronavirus/corona--wichtige-telefonnummern-und-seiten.html> |
 | Brandenburg | Landesweit                    | \+49 331 8683 777  | Keine Angabe       | Telefon-Hotline Coronavirus | <https://www.inforadio.de/dossier/2020/coronavirus/corona--wichtige-telefonnummern-und-seiten.html> |
 
-Personalübersicht
+
 
 #### Bremen
 
@@ -57,7 +57,6 @@ Personalübersicht
 | ------- | ------------ | ----------------- | ------------------ | --------------------------- | ---------------------------------------------------------- |
 | Bremen  | Keine Angabe | \+49 421 115      | Keine Angabe       | Telefon-Hotline Coronavirus | <https://www.bremen.de/leben-in-bremen/nachrichten/corona> |
 
-Personalübersicht
 
 #### Hamburg
 
@@ -65,7 +64,7 @@ Personalübersicht
 | ------- | ------------ | ------------------- | ------------------ | --------------------------- | ------------------------------------------------------------ |
 | Hamburg | Keine Angabe | \+49 40 428 284 000 | Keine Angabe       | Telefon-Hotline Coronavirus | <https://www.hamburg.de/coronavirus/13429836/informationen/> |
 
-Personalübersicht
+
 
 #### Hessen
 
@@ -73,7 +72,7 @@ Personalübersicht
 | ----------- | ---------- | ----------------- | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Land Hessen | Landesweit | \+49 800-5554666  | Mo - So 08:00 - 20:00 Uhr | Corona Hotline Landesweit für ganz Hessen | <https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/gesundheitsamt/informationen-zum-neuartigen-coronavirus-sars-cov-2> |
 
-Personalübersicht
+
 
 #### Mecklenburg-Vorpommern
 
@@ -82,7 +81,7 @@ Personalübersicht
 |         |                        |                   |                                              |                             |                                                                                                                         |
 | Meckpom | Gesundheitsministerium | \+49 385 588 5888 | Mo - Do, 09:00 - 12:00 Uhr 13:00 - 15:00 Uhr | Telefon-Hotline Coronavirus | <https://www.regierung-mv.de/Landesregierung/wm/Aktuelles--Blickpunkte/Wichtige-Informationen-zum-Corona%E2%80%93Virus> |
 
-Personalübersicht
+
 
 #### Niedersachsen
 
@@ -91,7 +90,7 @@ Personalübersicht
 | Hannover | IHK                 | 0511/3107-468     | Mo - Do, 08.00 - 16.00 Uhr & Fr 08.00 - 14.00 Uhr | Informationen für Unternehmen |
 | Stadt    | z.B. Gesundheitsamt | xxxx - xxxxxx     | z.B. mo - fr, 7:00 - 18:00 Uhr                    | was bieten die an?            |
 
-Personalübersicht
+
 
 #### Nordrhein-Westfalen
 
@@ -110,7 +109,7 @@ Personalübersicht
 | ------- | ------------------- | ----------------- | ------------------------------ | ------------------ |
 | Stadt   | z.B. Gesundheitsamt | xxxx - xxxxxx     | z.B. mo - fr, 7:00 - 18:00 Uhr | was bieten die an? |
 
-Personalübersicht
+
 
 #### Saarland
 
@@ -118,7 +117,7 @@ Personalübersicht
 | --------------- | --------------------------------------------------- | ----------------- | ----------------------------------- | ------------------------------------------------------------- |
 | Saarland Global | Gesundheitsministerium Lagezentrum zum Corona-Virus | 0681 501 4422     | mo-fr 7 - 24 Uhr & sa-so 9 - 15 Uhr | <https://nitter.net/saarland_de/status/1238452975850397696#m> |
 
-Personalübersicht
+
 
 #### Sachsen
 
@@ -126,7 +125,7 @@ Personalübersicht
 | ------- | ------------------- | ----------------- | ------------------------------ | ------------------ |
 | Stadt   | z.B. Gesundheitsamt | xxxx - xxxxxx     | z.B. mo - fr, 7:00 - 18:00 Uhr | was bieten die an? |
 
-Personalübersicht
+
 
 #### Sachsen-Anhalt
 
@@ -134,7 +133,7 @@ Personalübersicht
 | ------- | ------------------- | ----------------- | ------------------------------ | ------------------ |
 | Stadt   | z.B. Gesundheitsamt | xxxx - xxxxxx     | z.B. mo - fr, 7:00 - 18:00 Uhr | was bieten die an? |
 
-Personalübersicht
+
 
 #### Schleswig-Holstein
 
@@ -142,7 +141,7 @@ Personalübersicht
 | ---------- | ---------------------- | ----------------- | ------------------ | ------------------------- |
 | S-H (Land) | Bürgertelefon Land S-H | 0431 - 797 000 01 | n.v.               | Mail: corona@lr.landsh.de |
 
-Personalübersicht
+
 
 #### Thüringen
 
@@ -174,4 +173,4 @@ Personalübersicht
 | 99510 Apolda         | Landratsamt Weimarer Land Gesundheitsamt                                                          | 03644 540580                                                       | Mo: 09:00 Uhr - 12:00 Uhr Di: 09:00 Uhr - 12:00 Uhr 13:00 Uhr - 15:30 Uhr Do: 09:00 Uhr - 12:00 Uhr 13:00 Uhr - 18:00 Uhr                                                        |                                                                     |
 | 99510 Apolda         | Kreis Weimarer Land Infotelefon                                                                   | siehe Bemerkung                                                    | Mo - Fr 08:00 Uhr - 16:00 Uhr                                                                                                                                                    | Allgemeine Fragen: 03644/540-912 Medizinische Fragen: 03644/540-580 |
 
-Personalübersicht
+
