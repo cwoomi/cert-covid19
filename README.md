@@ -2,7 +2,7 @@
 
 Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten. Diese Sammlung ist durch unsere Arbeit im [C3 CERT](https://twitter.com/c3cert) entstanden.
 
-Stand: 18.03.2020 - 00:15 Uhr
+Stand: 18.03.2020 - 00:46 Uhr
 
 ***[Kontakttelefonnummern](/helplines.md)***
 
@@ -198,6 +198,7 @@ TBD
     Veranstaltungsverbot](https://www.berlin.de/sen/gpg/service/presse/2020/allgverfg_grossveranstaltungen.pdf)
   - [14.03.2020
     Eindämmungsverordnung](https://www.berlin.de/rbmskzl/_assets/aktuelles/2020/maerz/rv-corona-20200314-endg.pdf)
+  - [PM über die neue Verordnung des Senats zur Corona-Krise aus der Senatssitzung vom 17. März 2020](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/pressemitteilung.908282.php)
 
 ###### Brandenburg
 
