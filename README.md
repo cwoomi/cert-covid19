@@ -262,8 +262,7 @@ TBD
 
 ###### Rheinland-Pfalz
 
- - [Schließung des regulären
-    Schulbetriebs](https://add.rlp.de/fileadmin/add/Abteilung_3/Corona/Schliessung_regulaerer_Schulbetrieb.pdf)
+ - [Informationsportal zum Corona-Virus](https://corona.rlp.de)
 
 ###### Saarland
 
