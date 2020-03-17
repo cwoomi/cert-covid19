@@ -1,5 +1,7 @@
 # Informationssammlung zum Thema CoVid-19.
 
+Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten.
+
 [Kontakttelefonnummern](/helplines.md)
 
 #### Dashboards
