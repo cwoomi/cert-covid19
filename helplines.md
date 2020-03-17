@@ -11,7 +11,7 @@ informieren kann.
   - Hotline der BARMER Krankenkasse: 0800 - 84 84 111
   - Allgemeine Erstinformation und Kontaktvermittlung (Behördennummer):
     115
-      - \[[www.115.de](https://www.115.de)\
+      - \[[www.115.de](https://www.115.de)\]
 
 ## Länderspezifisch
 
