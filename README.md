@@ -4,41 +4,68 @@
 
 #### Dashboards
 
-* [[https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard WHO worldwide]]
-* [[https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4 Deutschland]]
-* [[https://coronavirus.jhu.edu/map.html John Hopkins Worldwide]]
-* [[https://mackuba.eu/corona/ Coronavirus Charts]]
-* [[https://www.worldometers.info/coronavirus/country/germany/ Coronavirus Worldmeter]]
+ - [WHO worldwide](https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard)
+ - [Deutschland](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
+ - [John Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
+ - [Coronavirus Charts](https://mackuba.eu/corona/)
+ - [Coronavirus Worldmeter](https://www.worldometers.info/coronavirus/country/germany/)
 
 #### Lageinformationen
 
-* [[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html Aktuelle Berichte des RKI]]
-* [[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html Risikogebiete Deutschland und International]]
-* [[https://www.infektionsschutz.de/coronavirus-sars-cov-2.html Allgemeine Hygienetipps und Vorschläge]]
-* [[https://www.ndr.de/nachrichten/info/podcast4684.html Podcast von Dr. Christian Drosten, Virologe an der Charité]]
-* [[https://covid-19.openmedical.de COVID-19 Fallzahlen in D]]
-* [[https://www.brk.de/infopool-covid-19/ Infopool des Krisenstabes BRK]]
+  - [Aktuelle Berichte des RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html_Aktuelle_Berichte_des_RKI "wikilink")
+  - [Risikogebiete Deutschland und International](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html_Risikogebiete_Deutschland_und_International "wikilink")
+  - [Allgemeine Hygienetipps und Vorschläge](https://www.infektionsschutz.de/coronavirus-sars-cov-2.html_Allgemeine_Hygienetipps_und_Vorschläge "wikilink")
+  - [Podcast von
+    Dr. Christian Drosten, Virologe an der
+    Charité](https://www.ndr.de/nachrichten/info/podcast4684.html_Podcast_von_Dr._Christian_Drosten,_Virologe_an_der_Charité "wikilink")
+  - [COVID-19 Fallzahlen in
+    D](https://covid-19.openmedical.de_COVID-19_Fallzahlen_in_D "wikilink")
+  - [Infopool des Krisenstabes
+    BRK](https://www.brk.de/infopool-covid-19/_Infopool_des_Krisenstabes_BRK "wikilink")
+
 
 #### Checklisten
 
-* [[https://www.apotheke-adhoc.de/fileadmin/user_upload/redaktion/service-downloads/Checkliste_Covid19.pdf Checkliste für Apotheken]]
-* [[https://www.dresden.de/media/pdf/gesundheit/HYG/Corona_Risikoeinschaetzung_Veranstalter.pdf Risikoeinschätzung für Veranstalter]]
-* [[:Datei:Covid19_Tagebuch_Kontaktpersonen.pdf|Selbstzuführendes Tagebuch für Kontaktpersonen zu Covid-19 Patienten vom RKI]]
+  - [Checkliste für
+    Apotheken](https://www.apotheke-adhoc.de/fileadmin/user_upload/redaktion/service-downloads/Checkliste_Covid19.pdf_Checkliste_für_Apotheken "wikilink")
+  - [Risikoeinschätzung für
+    Veranstalter](https://www.dresden.de/media/pdf/gesundheit/HYG/Corona_Risikoeinschaetzung_Veranstalter.pdf_Risikoeinschätzung_für_Veranstalter "wikilink")
+    
 
 #### Prophylaxe / Maßnahmen
 
-* [[https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf?ua=1 Händedesinfektionsmittel - Hausrezept der WHO]]
-* [[https://www.baua.de/DE/Angebote/Aktuelles/Meldungen/2020/pdf/Allgemeinverfuegung-2-Propanol.pdf?__blob=publicationFile&v=1 Offizielle Zulassung 2-Propanol-haltiger Biozidprodukte]]
-* [[https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v2 Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1]]
-* [[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study]]
-* [[https://www.aerzteblatt.de/nachrichten/111028/COVID-19-Wie-die-Epidemie-in-Wuhan-(vorerst)-ueberwunden-wurde COVID-19: Wie die Epidemie in Wuhan (vorerst) überwunden wurde]]
-* [[https://www.aerzteblatt.de/nachrichten/109657/Covid-19-Asymptomatische-Patienten-mit-negativem-PCR-koennen-Virus-uebertragen Auch Menschen ohne Symptome und mit neg. PCR können infiziert sein]]
-* [[https://twitter.com/traumagasdoc/status/1238244112773545984 Wie man einen Schutzanzug richtig auszieht]]
-* [[http://covid-at-home.info/ A guide for caring for Covid-19 patients at home]]
-* [[https://left.it/2020/03/13/covid_19-open-letter-from-italy-to-the-international-scientific-community/ Open letter from Italy to the international scientific community]]
-* [[https://jamanetwork.com/journals/jama/fullarticle/2749214   Among outpatient health care personnel, N95 respirators vs medical masks ... resulted in no significant difference in the incidence of laboratory-confirmed influenza.]]
-* [[https://jamanetwork.com/journals/jama/fullarticle/2763188 logistische Aspekte: Critical Care Utilization for the COVID-19 Outbreak in Lombardy ]]
-* [[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ressourcen_schonen_Masken.pdf?__blob=publicationFile RKI zur Mehrfachverwendung von Masken bei Engpässen ]]
+  - [Händedesinfektionsmittel - Hausrezept der
+    WHO](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf?ua=1_Händedesinfektionsmittel_-_Hausrezept_der_WHO "wikilink")
+  - [Offizielle Zulassung 2-Propanol-haltiger
+    Biozidprodukte](https://www.baua.de/DE/Angebote/Aktuelles/Meldungen/2020/pdf/Allgemeinverfuegung-2-Propanol.pdf?_blob=publicationFile&v=1_Offizielle_Zulassung_2-Propanol-haltiger_Biozidprodukte "wikilink")
+  - [Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to
+    SARS-CoV-1](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v2_Aerosol_and_surface_stability_of_HCoV-19_\(SARS-CoV-2\)_compared_to_SARS-CoV-1 "wikilink")
+  - [Clinical course and risk factors for mortality of adult inpatients
+    with COVID-19 in Wuhan, China: a retrospective cohort
+    study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext_Clinical_course_and_risk_factors_for_mortality_of_adult_inpatients_with_COVID-19_in_Wuhan,_China:_a_retrospective_cohort_study "wikilink")
+  - [COVID-19: Wie die Epidemie in Wuhan (vorerst) überwunden
+    wurde](https://www.aerzteblatt.de/nachrichten/111028/COVID-19-Wie-die-Epidemie-in-Wuhan-\(vorerst\)-ueberwunden-wurde_COVID-19:_Wie_die_Epidemie_in_Wuhan_\(vorerst\)_überwunden_wurde "wikilink")
+  - [Auch Menschen ohne Symptome und mit neg. PCR können infiziert
+    sein](https://www.aerzteblatt.de/nachrichten/109657/Covid-19-Asymptomatische-Patienten-mit-negativem-PCR-koennen-Virus-uebertragen_Auch_Menschen_ohne_Symptome_und_mit_neg._PCR_können_infiziert_sein "wikilink")
+  - [Wie man
+    einen Schutzanzug richtig
+    auszieht](https://twitter.com/traumagasdoc/status/1238244112773545984_Wie_man_einen_Schutzanzug_richtig_auszieht "wikilink")
+  - [A guide for caring for Covid-19 patients
+    at
+    home](http://covid-at-home.info/_A_guide_for_caring_for_Covid-19_patients_at_home "wikilink")
+  - [Open letter from Italy to the international scientific
+    community](https://left.it/2020/03/13/covid_19-open-letter-from-italy-to-the-international-scientific-community/_Open_letter_from_Italy_to_the_international_scientific_community "wikilink")
+  - [Among
+    outpatient health care personnel, N95 respirators vs medical masks
+    ... resulted in no significant difference in the incidence of
+    laboratory-confirmed
+    influenza.](https://jamanetwork.com/journals/jama/fullarticle/2749214_Among_outpatient_health_care_personnel,_N95_respirators_vs_medical_masks_..._resulted_in_no_significant_difference_in_the_incidence_of_laboratory-confirmed_influenza. "wikilink")
+  - [logistische Aspekte: Critical Care Utilization for the COVID-19
+    Outbreak in
+    Lombardy](https://jamanetwork.com/journals/jama/fullarticle/2763188_logistische_Aspekte:_Critical_Care_Utilization_for_the_COVID-19_Outbreak_in_Lombardy "wikilink")
+  - [RKI zur Mehrfachverwendung von Masken bei
+    Engpässen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ressourcen_schonen_Masken.pdf?_blob=publicationFile_RKI_zur_Mehrfachverwendung_von_Masken_bei_Engpässen "wikilink")
+
 
 #### Therapie
 
@@ -66,8 +93,7 @@
 * [[https://tobacco.ucsf.edu/reduce-your-risk-serious-lung-disease-caused-corona-virus-quitting-smoking-and-vaping Risikofaktor Rauchen]]
 
 #### Erlasse
-
-[https://cert.ccc.de/wiki/index.php?title=Intern:Covid-19/ErlasseGrossst%C3%A4dte Erlasse einzelner Großstädte]
+TBD
 
 #### Bundesweit
 
