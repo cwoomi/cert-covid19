@@ -163,7 +163,7 @@ TBD
   - [Einschränkung der Besuchsrechte für Krankenhäuser, Pflege- und
     Behinderteneinrichtungen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200313_allgemeinverfuegung_stmgp_besuchsverbot.pdf)
   - [Verbot von Veranstaltungen mit mehr als 1000
-    Teilnehmern](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/2020-03-11_veranstaltungen_allgemeinverfuegung.pdf
+    Teilnehmern](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/2020-03-11_veranstaltungen_allgemeinverfuegung.pdf)
   - [bis 19.4.2020 Bayerischer Landes-Sport Verband: Einstellung
     sämtlicher Sport Trainings-, Schulung- und
     Wettkampfveranstaltungen](https://www.blsv.de/fileadmin/user_upload/pdf/Corona/Pressemitteilung.pdf)
