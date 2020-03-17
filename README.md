@@ -20,8 +20,6 @@
     Charité](https://www.ndr.de/nachrichten/info/podcast4684.html)
   - [COVID-19 Fallzahlen in
     D](https://covid-19.openmedical.de)
-  - [Infopool des Krisenstabes
-    BRK](https://www.brk.de/infopool-covid-19/)
 
 
 #### Checklisten
