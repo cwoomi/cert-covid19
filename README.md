@@ -261,7 +261,7 @@ TBD
 
 ###### Nordrhein-Westfalen
 
-  - [Erweiterung zum Erlass von 15. und 17.03. - Schließung vieler Geschäfte etc.](https://www.land.nrw/sites/default/files/asset/document/200317_fortschreibung_der_erlasse_15._und_17.03.2020_kontaktreduzierende_massnahmen.pdf)
+  - [Weitere kontaktreduzierende Maßnahmen](https://www.land.nrw/sites/default/files/asset/document/200317_fortschreibung_der_erlasse_15._und_17.03.2020_kontaktreduzierende_massnahmen.pdf)
   - [Umgang mit
     Großveranstaltungen](https://www.mags.nrw/sites/default/files/asset/document/200310_erlass_grossveranstaltungen.pdf)
   - [Maßnahmenpaket](https://www.mags.nrw/pressemitteilung/landesregierung-beschliesst-massnahmenpaket-zur-eindaemmung-des-corona-virus)
