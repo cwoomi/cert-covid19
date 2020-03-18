@@ -146,11 +146,23 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 
   - Export von Atemschutzmasken nur noch nach Genehmigung von BMG
   - keine Veranstaltungen über 1000 Personen
-  - [Schließung von Grenzen zu F, AU,
-    CH](https://www.spiegel.de/politik/deutschland/coronavirus-deutschland-schliesst-grenzen-zu-frankreich-oesterreich-und-der-schweiz-a-9910fb81-f635-4be5-8138-bcbcbfd491d4)
+  - [Maßnahmenpaket zur Abfederung der Auswirkungen des
+    Corona-Virus](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20200317_Informationen_Bund_Schutzschild_Beschaeftigte_Unternehmen.pdf)
+  - [Einschränkung des
+    Luftverkehrs](https://www.bmvi.de/SharedDocs/DE/Anlage/LF/coronavirus-anordnung-bmg.pdf?__blob=publicationFile)
+  - [Einschränkung des
+    Eisenbahnverkehrs](https://www.bmvi.de/SharedDocs/DE/Anlage/LF/anordnung-bundespolizei-corona.pdf?__blob=publicationFile)
   - [Leitlinien der Bundesregierungen und Landesregierungen zur
     Schließung von Geschäften
     etc.](https://www.bundesregierung.de/breg-de/aktuelles/vereinbarung-zwischen-der-bundesregierung-und-den-regierungschefinnen-und-regierungschefs-der-bundeslaender-angesichts-der-corona-epidemie-in-deutschland-1730934)
+  - [Bescheinigung für Berufspendler zum
+    Grenzübertritt](https://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/pendlerbescheinigung_down.pdf?__blob=publicationFile&v=2)
+  - [Binnengrenz­kontrollen auf den innereuro­päischen Luft- und
+    Seeverkehr](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/corona-grenzkontrollen-see-luft.html)
+  - [Reisebeschränkungen](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/corona-reisebeschraenkungen.html)
+  - [Grenzkontrollen an AT, CH, F, LUX,
+    DEN](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/grenzschliessung-corona.html)
+
 
 ### Länderspezifisch
 
