@@ -2,44 +2,48 @@
 
 Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten. Diese Sammlung ist durch unsere Arbeit im [C3 CERT](https://twitter.com/c3cert) entstanden.
 
-Stand: 18.03.2020 - 00:46 Uhr
+Stand: 18.03.2020 - 21:30Uhr
 
 ***[Kontakttelefonnummern](/helplines.md)***
 
-#### Dashboards
+## Dashboards
 
- - [WHO worldwide](https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard)
- - [Deutschland](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
- - [Johns Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
- - [Coronavirus Charts](https://mackuba.eu/corona/)
- - [Coronavirus Worldmeter](https://www.worldometers.info/coronavirus/country/germany/)
+  - [WHO
+    worldwide](https://www.who.int/redirect-pages/page/novel-coronavirus-\(covid-19\)-situation-dashboard)
+  - [Deutschland](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
+  - [John Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
+  - [Coronavirus Charts](https://mackuba.eu/corona/)
+  - [Coronavirus
+    Worldmeter](https://www.worldometers.info/coronavirus/country/germany/)
+  - [Morgenpost interaktive
+    Karte](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
+  - [Dashboard zur Entwicklung](https://avatorl.org/covid-19/)
 
-#### Lageinformationen
+## Lageinformationen
 
-  - [Aktuelle Berichte des RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
-  - [Risikogebiete Deutschland und International](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html_Risikogebiete_Deutschland_und_International "wikilink")
-  - [Allgemeine Hygienetipps und Vorschläge](https://www.infektionsschutz.de/coronavirus-sars-cov-2.html)
-  - [Podcast von
-    Dr. Christian Drosten, Virologe an der
+  - [Aktuelle Berichte des
+    RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
+  - [Risikogebiete Deutschland und
+    International](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html)
+  - [Allgemeine Hygienetipps und
+    Vorschläge](https://www.infektionsschutz.de/coronavirus-sars-cov-2.html)
+  - [Podcast von Dr. Christian Drosten, Virologe an der
     Charité](https://www.ndr.de/nachrichten/info/podcast4684.html)
-  - [COVID-19 Fallzahlen in
-    D](https://covid-19.openmedical.de)
+  - [COVID-19 Fallzahlen in D](https://covid-19.openmedical.de)
 
-
-#### Checklisten
+## Checklisten
 
   - [Checkliste für
     Apotheken](https://www.apotheke-adhoc.de/fileadmin/user_upload/redaktion/service-downloads/Checkliste_Covid19.pdf)
   - [Risikoeinschätzung für
     Veranstalter](https://www.dresden.de/media/pdf/gesundheit/HYG/Corona_Risikoeinschaetzung_Veranstalter.pdf)
-    
 
-#### Prophylaxe / Maßnahmen
+## Prophylaxe / Maßnahmen
 
   - [Händedesinfektionsmittel - Hausrezept der
     WHO](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf?ua=1)
   - [Offizielle Zulassung 2-Propanol-haltiger
-    Biozidprodukte](https://www.baua.de/DE/Angebote/Aktuelles/Meldungen/2020/pdf/Allgemeinverfuegung-2-Propanol.pdf?_blob=publicationFile&v=1)
+    Biozidprodukte](https://www.baua.de/DE/Angebote/Aktuelles/Meldungen/2020/pdf/Allgemeinverfuegung-2-Propanol.pdf?__blob=publicationFile&v=1)
   - [Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to
     SARS-CoV-1](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v2)
   - [Clinical course and risk factors for mortality of adult inpatients
@@ -49,39 +53,37 @@ Stand: 18.03.2020 - 00:46 Uhr
     wurde](https://www.aerzteblatt.de/nachrichten/111028/COVID-19-Wie-die-Epidemie-in-Wuhan-\(vorerst\)-ueberwunden-wurde)
   - [Auch Menschen ohne Symptome und mit neg. PCR können infiziert
     sein](https://www.aerzteblatt.de/nachrichten/109657/Covid-19-Asymptomatische-Patienten-mit-negativem-PCR-koennen-Virus-uebertragen)
-  - [Wie man
-    einen Schutzanzug richtig
+  - [Wie man einen Schutzanzug richtig
     auszieht](https://twitter.com/traumagasdoc/status/1238244112773545984)
-  - [A guide for caring for Covid-19 patients
-    at
-    home](http://covid-at-home.info/_A_guide_for_caring_for_Covid-19_patients_at_home "wikilink")
+  - [A guide for caring for Covid-19 patients at
+    home](http://covid-at-home.info/)
   - [Open letter from Italy to the international scientific
     community](https://left.it/2020/03/13/covid_19-open-letter-from-italy-to-the-international-scientific-community/)
-  - [Among
-    outpatient health care personnel, N95 respirators vs medical masks
-    ... resulted in no significant difference in the incidence of
+  - [Among outpatient health care personnel, N95 respirators vs medical
+    masks ... resulted in no significant difference in the incidence of
     laboratory-confirmed
     influenza.](https://jamanetwork.com/journals/jama/fullarticle/2749214)
   - [logistische Aspekte: Critical Care Utilization for the COVID-19
     Outbreak in
     Lombardy](https://jamanetwork.com/journals/jama/fullarticle/2763188)
   - [RKI zur Mehrfachverwendung von Masken bei
-    Engpässen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ressourcen_schonen_Masken.pdf?_blob=publicationFile)
+    Engpässen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ressourcen_schonen_Masken.pdf?__blob=publicationFile)
 
-#### Diagnostik
+## Diagnostik
 
-- [Übersicht über RKI-Diagnostik-Flowcharts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_Tab.html)
-- [RKI-Diagnostik-Flowchart als PDF zum Ausdrucken](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf?__blob=publicationFile)
-- [RKI-Flowchart-App für Ärzte](http://multimedia.gsb.bund.de/RKI/Flowcharts/covid19-arzt/)
-- [Symptoms near the time of presentation in various cohorts, via emcrit](https://i1.wp.com/emcrit.org/wp-content/uploads/2020/03/sxjpg.jpg)
+  - [Übersicht über
+    RKI-Diagnostik-Flowcharts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_Tab.html)
+  - [RKI-Diagnostik-Flowchart als PDF zum
+    Ausdrucken](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf?__blob=publicationFile)
+  - [RKI-Flowchart-App für
+    Ärzte](http://multimedia.gsb.bund.de/RKI/Flowcharts/covid19-arzt/)
+  - [Symptoms near the time of presentation in various cohorts, via
+    emcrit](https://i1.wp.com/emcrit.org/wp-content/uploads/2020/03/sxjpg.jpg)
 
+## Therapie
 
-
-#### Therapie
-
-'''Gute Informationssammlung für medizinisches Personal: [Coronavirus Tech Handbook
-by
-doctors](https://coronavirustechhandbook.com/doctors)'''
+**Gute Informationssammlung für medizinisches Personal: [Coronavirus
+Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 
   - [Atemwegsmanagement bei COVID-19
     (pin-up-docs)](https://pin-up-docs.de/2020/03/08/atemwegsmanagement-bei-covid-19/)
@@ -90,34 +92,37 @@ doctors](https://coronavirustechhandbook.com/doctors)'''
     al)](https://link.springer.com/content/pdf/10.1007/s00063-020-00674-3.pdf)
   - [Erfahrungen einer Ärztin in
     Seattle](https://docs.google.com/document/d/1Zx3WVpp8y-SMLrxg3tckbF5PmcV0FCtuyWuUiFVYiUo/preview)
-  - [COVID-19 in the Internet Book of
-    Critical
+  - [COVID-19 in the Internet Book of Critical
     Care](https://emcrit.org/ibcc/covid19/)
-  - [Airway-Managment-Anleitung der ESA für Covid-19 (European Society of
+  - [Airway-Managment-Anleitung der ESA für Covid-19 (European Society
+    of
     Anaesthesiology)](http://www.siaarti.it/SiteAssets/News/COVID19%20-%20documenti%20SIAARTI/SIAARTI%20-%20Covid-19%20-%20Airway%20Management%20rev.1.1.pdf)
+  - [AMBOSS-Informationsübersicht zu
+    COVID-19](https://www.amboss.com/de/wissen/covid-19)
+  - [Therapieschema aus dem
+    Bundeswehrzentralkrankenhaus](https://cert.ccc.de/wiki/images/Therapieschema_aus_dem_BundeswehrZentralkrankenhaus.pdf)
 
+## Testtherapien / Forschung
 
-#### Testtherapien / Forschung
-
-  - [Remdesivir and
-    chloroquine effectively inhibit the recently emerged novel
-    coronavirus (2019-nCoV) in vitro
+  - [Remdesivir and chloroquine effectively inhibit the recently emerged
+    novel coronavirus (2019-nCoV) in vitro
     (Nature)](https://www.nature.com/articles/s41422-020-0282-0)
-  - [SARS-CoV-2
-    Cell Entry Depends on ACE2 andTMPRSS2 and Is Blocked by a Clinically
-    Proven Protease
+  - [SARS-CoV-2 Cell Entry Depends on ACE2 andTMPRSS2 and Is Blocked by
+    a Clinically Proven Protease
     Inhibitor](https://www.cell.com/cell/pdf/S0092-8674\(20\)30229-4.pdf)
   - [New coronavirus protein reveals drug
-    target](https://news.northwestern.edu/stories/2020/03/new-coronavirus-protein-reveals-drug-target)
+    target](https://news.northwestern.edu/stories/2020/03/new-coronavirus-protein-reveals-drug-target/)
   - [Clinical Presentation and virological assessment of hospitalized
     cases of coronavirus disease 2019 in a travel-associated
     transmission
     cluster](https://www.medrxiv.org/content/10.1101/2020.03.05.20030502v1)
-  - [Veröffentlichungen zu
+  - [Über 900 Veröffentlichungen zu
     Covid-19](https://www.ncbi.nlm.nih.gov/m/pubmed/?term=covid+19)
+  - [favipiravir/Avigan angeblich
+    effektiv](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china)
+  - [Infos zu favipiravir](https://flexikon.doccheck.com/de/Favipiravir)
 
-
-#### Risikofaktoren
+## Risikofaktoren
 
   - [Clinical course and risk factors for mortality of adult inpatients
     with COVID-19 in Wuhan, China: a retrospective cohort
@@ -125,17 +130,16 @@ doctors](https://coronavirustechhandbook.com/doctors)'''
   - [Are patients with hypertension and diabetes mellitus at increased
     risk for COVID-19
     infection?](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30116-8/fulltext)
-  - [Rosiglitazone,
-    a Ligand to PPAR, Improves Blood Pressure and Vascular Function
-    through Renin-Angiotensin System
+  - [Rosiglitazone, a Ligand to PPAR, Improves Blood Pressure and
+    Vascular Function through Renin-Angiotensin System
     Regulation](https://www.hindawi.com/journals/ppar/2019/1371758/)
   - [Risikofaktor
     Rauchen](https://tobacco.ucsf.edu/reduce-your-risk-serious-lung-disease-caused-corona-virus-quitting-smoking-and-vaping)
 
-#### Erlasse
-TBD
+## Erlasse
 
-#### Bundesweit
+
+### Bundesweit
 
   - Export von Atemschutzmasken nur noch nach Genehmigung von BMG
   - keine Veranstaltungen über 1000 Personen
@@ -145,214 +149,204 @@ TBD
     Schließung von Geschäften
     etc.](https://www.bundesregierung.de/breg-de/aktuelles/vereinbarung-zwischen-der-bundesregierung-und-den-regierungschefinnen-und-regierungschefs-der-bundeslaender-angesichts-der-corona-epidemie-in-deutschland-1730934)
 
-#### Länderspezifisch
+### Länderspezifisch
 
-###### Baden-Württemberg
+#### Baden-Württemberg
 
+| Verordnung                                                                                                                                                                                                                                                       | Gültig ab  | Gültig bis           | Status               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | -------------------- |
+| [Untersagung Großveranstaltungen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-untersagt-grossveranstaltungen/)                                                                                                                 | 11.03.2020 | unbegrenzt           | Gültig               |
+| [Schließung von Kitas und Schulen](https://static.kultus-bw.de/site/pbs-bw-new/get/documents/KULTUS.Dachmandant/KULTUS/KM-Homepage/Pressemitteilungen/Pressemitteilungen%202020/2020%2003%2013%20Corona%20Schlie%C3%9Fungen%20Schulen%20Kitas%20Tagespflege.pdf) | 13.03.2020 | Ende der Osterferien | Gültig               |
+| [Schließung Hochschulen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/vorlesungsbetrieb-an-hochschulen-ausgesetzt/)                                                                                                                  | 11.03.2020 | 19.04.2020           | Gültig               |
+| [Weisung an die Gesundheitsämter hinsichtlich Umgang mit Menschen aus Risikogebieten](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-Gaemter-BW_Kliniken-Heime.pdf)   | 12.03.2020 | unbegrenzt           | Gültig               |
+| [Weisung an die Gesundheitsämter hinsichtlich Großveranstaltungen](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-SM-BW-Gro%C3%9Fveranstaltungen.pdf)                 | 13.03.2020 | unbegrenzt           | Gültig               |
+| [Verordnung der Landesregierung über infektionsschützende Maßnahmen gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung - CoronaVO)](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200316_StM_VO_IfSG_Corona.pdf)                  | 16.03.2020 | unbegrenzt           | Aufgehoben / Ersetzt |
+| [Verordnung der Landesregierung über infektionsschützende Maßnahmen gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung - CoronaVO)](https://stm.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200317_StM_VO_IfSG_Corona.pdf)                  | 17.03.2020 | unbegrenzt           | Gültig               |
+|                                                                                                                                                                                                                                                                  |            |                      |                      |
 
-  - [Untersagung
-    Großveranstaltungen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-untersagt-grossveranstaltungen/)
-  - [Schließung von Kitas und
-    Schulen](https://static.kultus-bw.de/site/pbs-bw-new/get/documents/KULTUS.Dachmandant/KULTUS/KM-Homepage/Pressemitteilungen/Pressemitteilungen%202020/2020%2003%2013%20Corona%20Schlie%C3%9Fungen%20Schulen%20Kitas%20Tagespflege.pdf)
-  - [Schließung
-    Hochschulen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/vorlesungsbetrieb-an-hochschulen-ausgesetzt/)
-  - [Weisung an die Gesundheitsämter vom 12.03.2020 hinsichtlich Umgang
-    mit Menschen aus
-    Risikogebieten](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-Gaemter-BW_Kliniken-Heime.pdf)
-  - [Weisung an die Gesundheitsämter vom 13.03.2020 hinsichtlich
-    Großveranstaltungen](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-SM-BW-Gro%C3%9Fveranstaltungen.pdf)
-  - [~Verordnung der Landesregierung über infektionsschützende Maßnahmen
-    gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung -
-    CoronaVO) vom 16. März
-    2020~ **Ersetzt**](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200316_StM_VO_IfSG_Corona.pdf)
-  - [Verordnung der Landesregierung über infektionsschützende Maßnahmen
-    gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung -
-    CoronaVO) vom 17. März
-    2020](https://stm.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/landesregierung-beschliesst-massnahmen-gegen-die-ausbreitung-des-coronavirus/)
-  - [Mitschnitt der PK zu aktuellen Beschlüssen der Landesregierung vom 17.03.](https://www.youtube.com/watch?v=BPoV2wQqkMs&feature=youtu.be)
+#### Bayern
 
+| Verordnung                                                                                                                                                                                                                                                       | Gültig ab  | Gültig bis | Status               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | -------------------- |
+| [Corona-Pandemie: Betretungsverbot für Hochschulen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200317_allgemeinverfuegung_hochschulen_bf.pdf)                                                                                                      | 17.03.2020 | 19.04.2020 | Gültig               |
+| [Meldepflicht für Beatmungsgeräte](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200317_stmgp_allgemeinverfuegung_beatmungsgeraete_korrektur.pdf)                                                                                                     | 18.03.2020 | 20.04.2020 | Gültig               |
+| [Maßnahmen anlässlich der Corona-Pandemie im Bereich der Werkstätten für behinderte Menschen, Förderstätten sowie Berufsbildungs- und Berufsförderungswerke](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200317_allgemeinverfuegung_stmgp_wfbm.pdf) | 17.03.2020 | 19.04.2020 | Gültig               |
+| [Verpflichtung der Laborbetreiber in Bayern zur Meldung der Anzahl der untersuchten Abstriche, Proben und Befundergebnisse](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200317_allgemeinverfuegung_stmgp_laborbetreiber.pdf)                        | 18.03.2020 | 19.04.2020 | Gültig               |
+| [Änderung der Allgemeinverfügung über Veranstaltungsverbote und Betriebsuntersagungen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200317_aenderung_allgemeinverfuegung_veranstaltungsverbot_betriebsuntersagungen-1.pdf)                           | 18.03.2020 | unbegrenzt | Gültig               |
+| [Veranstaltungsverbote und Betriebsuntersagungen anlässlich der Corona-Pandemie](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200316_allgemeinverfuegung_veranstaltungsverbot_betriebsuntersagungen_stand_1252_uhr.pdf)                              | 16.03.2020 | unbegrenzt | Geändert             |
+| [Maßnahmen Schulen, Kitas](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200313_allgemeinverfuegung_stmgp_schulen_kitas.pdf)                                                                                                                          | 13.03.2020 | 19.04.2020 | Gültig               |
+| [Einschränkung der Besuchsrechte für Krankenhäuser, Pflege- und Behinderteneinrichtungen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200317_aenderung_allgemeinverfuegung_besuchsrechte_krankenhaeuser_pflege_und-behinderteneinrichtungen_b.pdf)  | 18.03.2020 | unbegrenzt | Gültig               |
+| [Einschränkung der Besuchsrechte für Krankenhäuser, Pflege- und Behinderteneinrichtungen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200313_allgemeinverfuegung_stmgp_besuchsverbot.pdf)                                                           | 14.03.2020 |            | Geändert             |
+| [Verbot von Veranstaltungen mit mehr als 1000 Teilnehmern](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/2020-03-11_veranstaltungen_allgemeinverfuegung.pdf)                                                                                            | 11.03.2020 | 19.04.2020 | Aufgehoben / Ersetzt |
+| [Feststellung des Katastrophenfalls](https://www.verkuendung-bayern.de/files/baymbl/2020/115/baymbl-2020-115.pdf)                                                                                                                                                | 16.03.2020 | unbegrenzt | Gültig               |
+| [Bayerischer Landes-Sport Verband: Einstellung sämtlicher Sport Trainings-, Schulung- und Wettkampfveranstaltungen](https://www.blsv.de/fileadmin/user_upload/pdf/Corona/Pressemitteilung.pdf)                                                                   | 13.03.2020 | 19.04.2020 | NGO / Verband        |
 
-###### Bayern
+#### Berlin
 
-  - [Betretungsverbot für Kinder in Schulen, Kindertageseinrichtungen,
-    Kindertagespflegestellen oder Heilpädagogischen
-    Tagesstätten](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200313_allgemeinverfuegung_stmgp_schulen_kitas.pdf)
-  - [Einschränkung der Besuchsrechte für Krankenhäuser, Pflege- und
-    Behinderteneinrichtungen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200313_allgemeinverfuegung_stmgp_besuchsverbot.pdf)
-  - [Verbot von Veranstaltungen mit mehr als 1000
-    Teilnehmern](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/2020-03-11_veranstaltungen_allgemeinverfuegung.pdf)
-  - [bis 19.4.2020 Bayerischer Landes-Sport Verband: Einstellung
-    sämtlicher Sport Trainings-, Schulung- und
-    Wettkampfveranstaltungen](https://www.blsv.de/fileadmin/user_upload/pdf/Corona/Pressemitteilung.pdf)
-  - [Pressekonferenz MdL
-    Bayern vom 16.03.2020: Bayern ruft den Katastrophenfall aus; Ab
-    Dienstag schließen alle Freizeiteinrichtungen wie Bars, Kinos,
-    Clubs, Vereinsheime und Schwimmbäder; Geschäfte bleiben ab Dienstag
-    geschlossen; Geöffnet bleiben: Lebensmittelgeschäfte, Apotheken,
-    Drogeriemärkte, Banken und Tankstellen; Ab Mittwoch dürfen
-    Gaststätten nur noch von 6 bis 15 Uhr offen
-    haben](https://www.youtube.com/watch?v=t1RbLweo1d8)
+| Verordnung                                                                                                                                                                                                            | Gültig ab  | Gültig bis | Status               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | -------------------- |
+| [Verordnung über erforderliche Maßnahmen zur Eindämmung der Ausbreitung des neuartigen Coronavirus SARS-CoV-2 in Berlin](https://www.berlin.de/corona/massnahmen/verordnung/corona-verordnung-neu_final-entgilbt.pdf) | 17.03.2020 | 19.04.2020 | Gültig               |
+| [Senatsbeschlüsse](https://www.berlin.de/aktuelles/berlin/6108959-958092-coronavirus-massnahmen-berlin.html)                                                                                                          | 13.03.2020 | unbegrenzt | Aufgehoben / Ersetzt |
+| [Hochschulen schließen](https://www.berlin.de/sen/wissenschaft/aktuelles/pressemitteilungen/2020/pressemitteilung.906846.php)                                                                                         | 13.03.2020 | unbegrenzt | Aufgehoben / Ersetzt |
+| [Veranstaltungsverbot](https://www.berlin.de/sen/gpg/service/presse/2020/allgverfg_grossveranstaltungen.pdf)                                                                                                          | 13.03.2020 | 19.04.2020 | Aufgehoben / Ersetzt |
+|                                                                                                                                                                                                                       |            |            |                      |
 
+#### Brandenburg
 
-###### Berlin
+| Verordnung                                                                                                                                                                | Gültig ab  | Gültig bis  | Status               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | -------------------- |
+| [SARS-CoV-2-Eindämmungsverordnung](https://www.landesrecht.brandenburg.de/dislservice/disl/dokumente/8557/dokument/14138)                                                 | 17.03.2020 | 19.04.2020  | Gültig               |
+| [Einschränkung des Schulbetriebes](https://mbjs.brandenburg.de/media_fast/6288/corona-mbjs-schreiben_12.pdf)                                                              | 12.03.2020 | 17.03.2020  | Aufgehoben / Ersetzt |
+| [Allgemeinverfügung für Reiserückkehrende aus Risikogebieten](https://msgiv.brandenburg.de/sixcms/media.php/9/Anlage_1__Allgemeinverfuegung_LK_IfSG_Reiserueckkehrer.pdf) | 13.03.2020 | unbefristet | Gültig               |
+|                                                                                                                                                                           |            |             |                      |
 
- - [Senatsbeschlüsse](https://www.berlin.de/aktuelles/berlin/6108959-958092-coronavirus-massnahmen-berlin.html)
-  - [Hochschulen
-    schließen](https://www.berlin.de/sen/wissenschaft/aktuelles/pressemitteilungen/2020/pressemitteilung.906846.php)
-  - [**Geändert/Ersetzt
-    Veranstaltungsverbot](https://www.berlin.de/sen/gpg/service/presse/2020/allgverfg_grossveranstaltungen.pdf)
-  - [14.03.2020
-    Eindämmungsverordnung](https://www.berlin.de/rbmskzl/_assets/aktuelles/2020/maerz/rv-corona-20200314-endg.pdf)
-  - [PM über die neue Verordnung des Senats zur Corona-Krise aus der Senatssitzung vom 17. März 2020](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/pressemitteilung.908282.php)
+#### Bremen
 
-###### Brandenburg
+| Verordnung                                                                                                                                                                                                                                                                                                                                                                           | Erlassen   | Gültig bis | Status |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- | ------ |
+| [Allgemeinverfügung über das Verbot des Betriebes von Tagespflegeeinrichtungen](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung_Verbot%20des%20Betriebes%20von%20Tagespflegeeinrichtungen%20final_170320.pdf)                                                                                                                             | 17.03.2020 | 14.04.2020 | Gültig |
+| [Anlage 1 vom 17.03.2020 zur Allgemeinverfügung vom 17.03.2020 über das Verbot des Betriebes von Tagespflegeeinrichtungen](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Anlage%201%20Allgemeinverf%FCgung_Verbot%20des%20Betriebes%20von%20Tagespflegeeinrichtungen%20final_170320.pdf)                                                                     |            |            | Anlage |
+| [Anlage 2 vom 17.03.2020 zur Allgemeinverfügung vom 17.03.2020 über das Verbot des Betriebes von Tagespflegeeinrichtungen](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Anlage%202%20Allgemeinverf%FCgung_Verbot%20des%20Betriebes%20von%20Tagespflegeeinrichtungen%20final_170320.pdf)                                                                     |            |            | Anlage |
+| [Allgemeinverfügung über die Einschränkung der Besuchsrechte für Pflege- und Behinderteneinrichtungen und Einrichtungen der Eingliederungshilfe](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung_Betretungsverbot%20Pflege-EGhi%20final_170320.pdf)                                                                                       | 18.03.2020 |            | Gültig |
+| [Allgemeinverfügung über das Verbot von Veranstaltungen, Zusammenkünften und der Öffnung bestimmter Betriebe zur Eindämmung des Coronavirus](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung_Veranstaltungen%20final%20170320.pdf)                                                                                                        | 18.03.2020 | 19.04.2020 | Gültig |
+| [Allgemeinverfügung zur Absonderung von Personen, die mit dem Corona-Virus (SARS-CoV 2) infiziert sind oder Kontakt mit infizierten Personen hatten (Kontaktpersonen der Kategorie I)](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung_inf%20Pers%20und%20Kat%20I%20final_16032020.pdf)                                                   | 17.03.2020 |            | Gültig |
+| [Anlage 1 zur Allgemeinverfügung zur Absonderung von Personen, die mit dem Corona-Virus (SARS-CoV 2) infiziert sind oder Kontakt mit infizierten Personen hatten (Kontaktpersonen der Kategorie I)](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Anlage%201%20Allgemeinverf%FCgung_inf%20Pers%20und%20Kat%20I%20final_16032020.pdf)                         |            |            | Anlage |
+| [Allgemeinverfügung zur Absonderung von Personen, die aus Risikogebieten zurückgekehrt sind, in sogenannte häusliche Quarantänen zur Eindämmung des Coronavirus](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung_Risikogebiete_final_16032020.pdf)                                                                                        | 17.03.2020 |            | Gültig |
+| [Allgemeinverfügung über das Verbot des Schul- und Unterrichtsbetriebes an Privatschulen und das Verbot der Kindesbetreuung in nicht öffentlichen Einrichtungen der Kindertagesbetreuung und Kindertagespflegestellen](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung%20%FCber%20das%20VerbotPrivatschulen_Kinderg%E4rten_130320%20.pdf) | 14.03.2020 | 14.03.2020 | Gültig |
+| [Allgemeinverfügung über das Verbot von Veranstaltungen und Menschenansammlungen zur Eindämmung des Coronavirus](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung_Versammlungsverbot_100320_final.pdf)                                                                                                                                     | 12.03.2020 | 26.03.2020 | Gültig |
 
-  - [Einschränkung des
-    Schulbetriebes](https://mbjs.brandenburg.de/media_fast/6288/corona-mbjs-schreiben_12.pdf)
-  - [Pressemitteilung Gesamtstrategie
-    Corona](https://www.brandenburg.de/media_fast/1167/200313%20PM%20Kabinett%20Coronavirus.pdf)
-  - [Allgemeinverfügung für Reiserückkehrende aus
-    Risikogebieten](https://msgiv.brandenburg.de/sixcms/media.php/9/Anlage_1_Allgemeinverfuegung_LK_IfSG_Reiserueckkehrer.pdf)
+#### Hamburg
 
+| Verordnung                                                                                                                                                                                         | Gültig ab  | Gültig bis  | Status               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | -------------------- |
+| [AllgV Reiserückkehrer](https://www.hamburg.de/contentblob/13704186/4034545ca84787d090a8af2760c00760/data/allgemeinverfuegung-reiserueckkehrer.pdf)                                                | 11.03.2020 | unbefristet | Gültig               |
+| [Veranstaltungsverbot über 1000 Personen](https://www.hamburg.de/contentblob/13707254/1dbc2003a694afd9e16c4865f05655d8/data/allgemeinverfuegung-veranstaltungen.pdf)                               | 12.03.2020 | 30.04.2020  | Aufgehoben / Ersetzt |
+| [Verbot öffentlicher und privater Veranstaltungen mit wenigen Ausnahmen](https://www.hamburg.de/contentblob/13721244/478958bdded12fd2f8ebc6769f327079/data/2020-03-15-pdf-allgemeinverfuegung.pdf) | 15.03.2020 | 30.04.2020  | Gültig               |
+|                                                                                                                                                                                                    |            |             |                      |
 
-###### Bremen
+#### Hessen
 
-  - [Allgemeinverfügung über das Verbot von
-    Veranstaltungen](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung_Versammlungsverbot_100320_final.pdf)
-  - [Allgemeinverfügung über das Verbot des Schul- und
-    Unterrichtsbesuches an Privatschulen und private
-    Kitas](https://www.amtliche-bekanntmachungen.bremen.de/sixcms/media.php/1624/Allgemeinverf%FCgung%20%FCber%20das%20VerbotPrivatschulen_Kinderg%E4rten_130320%20.pdf)
+| Verordnung                                                                                                                                                                                                                       | Gültig ab  | Gültig bis | Status               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | -------------------- |
+| [Verordnung zur Bekämpfung des Corona-Virus](https://www.hessen.de/sites/default/files/media/2020-03-13_eil_vo_absonderung_funktionspersonal_ausgefertigt_003.pdf)                                                               | 13.03.2020 | 19.04.2020 | Ergänzt              |
+| [Zweite Verordnung zur Bekämpfung des Corona-Virus](https://www.hessen.de/sites/default/files/media/2020-03-13_eil_vo_besuchsverbot_ausgefertigt.pdf)                                                                            | 13.03.2020 | 19.04.2020 | Ergänzt              |
+| [Dritte Verordnung zur Bekämpfung des Corona-Virus](https://www.hessen.de/sites/default/files/media/hessen.de_land/verordnung_zu_veranstaltungen.pdf)                                                                            | 14.03.2020 | 19.04.2020 | Ergänzt              |
+| [Änderung der Ersten und Zweiten Verordnung](https://www.hessen.de/sites/default/files/media/staatskanzlei/aenderungsverodnung_zur_bekaempfung_von_corona.pdf)                                                                   | 14.03.2020 | 19.04.2020 | Ergänzt              |
+| [Zweite Änderung der Zweiten Verordnung](https://www.hessen.de/sites/default/files/media/staatskanzlei/2020-03-16_zweite_verordnung_zur_aenderung_der_zweiten_verordnung_zur_bekaempfung_des_corona-virus_kita_und_schule_0.pdf) | 16.03.2020 | 19:04.2020 | Ergänzt              |
+| [Vierte Verordnung](https://www.hessen.de/sites/default/files/media/staatskanzlei/2020-03-17_vierte_vo_bekaempfung_corona_virus__0.pdf)                                                                                          | 18.04.2020 | 19.04.2020 | Gültig               |
+| <https://www.hessen.de/sites/default/files/media/hessen.de_land/2020-03-16_fuenfte-vo_ops_datum.pdf>                                                                                                                             | 18.04.2020 | 19.04.2020 | Gültig               |
+| [Veranstaltungsverbot](https://soziales.hessen.de/sites/default/files/media/hsm/erlass_von_allgemeinverfuegungen_zum_verbot_von_grossveranstaltungen.pdf)                                                                        | 12.03.2020 | 10.04.2020 | Aufgehoben / Ersetzt |
+|                                                                                                                                                                                                                                  |            |            |                      |
 
-###### Hamburg
+#### Mecklenburg-Vorpommern
 
- - [Senatsbeschluss zu
-    Schließungen](https://www.hamburg.de/coronavirus/13719080/senat-beschluss-coronavirus/)
-  - [**Aufgehoben/Ersetzt** Veranstaltungsverbot über 1000
-    Personen](https://www.hamburg.de/contentblob/13707254/1dbc2003a694afd9e16c4865f05655d8/data/allgemeinverfuegung-veranstaltungen.pdf)
-  - [Verbot öffentlicher und privater Veranstaltungen mit wenigen
-    Ausnahmen](https://www.hamburg.de/contentblob/13721244/478958bdded12fd2f8ebc6769f327079/data/2020-03-15-pdf-allgemeinverfuegung.pdf)
+| Verordnung                                                                                                                                                                                                                                 | Erlassen   | Gültig bis | Status   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- | -------- |
+| [SARS-CoV-2-Bekämpfungsverordnung](https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1622674)                                                                                                                        | 16.03.2020 | 19.04.2020 | Gültig   |
+| [Allgemeinverfügung Besuch von Schulen, Einrichtungen der Kindertagesförderung und Kindertagespflege](https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1622489)                                                     | 16.03.2020 | 19.04.2020 | Gültig   |
+| [Erlass Betretungsverbot Gemeinschaftenirichtungen, medizinischen Einrichtungen, Berufschulen, Hochschulen und Einrichtungen der öffentlichen Verwaltung](https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1622503) | 16.03.2020 | 19.04.2020 | Gültig   |
+| [Erlass zur Durchführung von Veranstaltungen](https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1622505)                                                                                                             | 16.03.2020 | 19.04.2020 | Gültig   |
+| [Erlass zur Durchführung von Veranstaltungen](https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1622419)                                                                                                             | 12.03.2020 | 19.04.2020 | Geändert |
+|                                                                                                                                                                                                                                            |            |            |          |
 
-###### Hessen
+#### Niedersachsen
 
-  - [**Ergänzt** Verordnung zur Bekämpfung des Corona-Virus
-    13.03.2020](https://www.hessen.de/sites/default/files/media/2020-03-13_eil_vo_absonderung_funktionspersonal_ausgefertigt_003.pdf)
-  - [**Ergänzt** Zweite Verordnung zur Bekämpfung des Corona-Virus
-    13.03.2020](https://www.hessen.de/sites/default/files/media/2020-03-13_eil_vo_besuchsverbot_ausgefertigt.pdf)
-  - [Dritte Verordnung zur Bekämpfung des Corona-Virus
-    14.03.2020](https://www.hessen.de/sites/default/files/media/hessen.de_land/verordnung_zu_veranstaltungen.pdf)
-  - [Veranstaltungsverbot
-    14.03.2020](https://www.hessen.de/sites/default/files/media/hessen.de_land/verordnung_zu_veranstaltungen.pdf)
-  - [**Aufgehoben/Ersetzt** Veranstaltungsverbot
-    12.03.2020](https://soziales.hessen.de/sites/default/files/media/hsm/erlass_von_allgemeinverfuegungen_zum_verbot_von_grossveranstaltungen.pdf)
-  - [Alle Beschlüsse des Landes Hessen in
-    Kurzübersicht](https://www.hessen.de/presse/pressemitteilung/wir-muessen-die-ausbreitung-der-infektionen-verlangsamen)
+| Verordnung                                                                                                                                                                                                                                                                                                                                                                                      | Erlassen   | Gültig bis | Status  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------- |
+| [Fachaufsichtliche Weisung zur beschränkung von sozialen Kontakten](https://www.niedersachsen.de/download/153237/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Ausweitung_kontaktreduzierender_Massnahmen_im_oeffentlichen_Bereich_Uebernachtungen_Gaststaetten_Restaurants_und_Werkstaetten_fuer_behinderte_Menschen_vom_17.03.2020.pdf)                                           | 17.03.2020 | 18.04.2020 | Gültig  |
+| [Beschränkung des Zugangs zu den Inseln Halligen und Warfen der Nordsee](https://www.niedersachsen.de/download/153169/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_des_Zugangs_zu_den_Inselnn_Halligen_und_Warften_vom_16.03.2020.pdf)                                                                                                                               | 17.03.2020 | 18.04.2020 | Gültig  |
+| [Ausweitung kontaktreduzierender Maßnahmen für Krankenhäuser Vorsoge- und Rehaeinrichtungen, Heime für ältere/pflegebedürftige Menschen, Menschen mit Behinderungen](https://www.niedersachsen.de/download/153170/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Ausweitung_kontaktreduzierender_Massnahmen_fuer_Krankenhaeuser_Heime_fuer_aeltere_Menschen_etc._vom_16.03.2020.pdf) | 16.03.2020 | 18.04.2020 | Gültig  |
+| [Maßnahmen zru Beschränkung vim sozialen Kontakten im öffentlichen Bereich](https://www.niedersachsen.de/download/153171/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_von_sozialen_Kontakten_im_oeffentlichen_Bereich_Handeln-Freizeit-Kultur_vom_16.03.2020.pdf)                                                                                                    | 17.03.2020 | 18.04.2020 | Ergänzt |
+| [Untersagung der Erteilung von Unterricht](https://www.mk.niedersachsen.de/download/153113)                                                                                                                                                                                                                                                                                                     | 16.03.2020 | 18.04.2020 | Gültig  |
+| [Einstellung des Betriebs von Gemeinschafteinrichtungen](https://www.mk.niedersachsen.de/download/153097)                                                                                                                                                                                                                                                                                       | 16.03.2020 | 18.04.2020 | Gültig  |
 
+#### Nordrhein-Westfalen
 
-###### Mecklenburg-Vorpommern
+| Verordnung                                                                                                                                                                                      | Gültig ab  | Gültig bis | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| [Umgang mit Großveranstaltungen](https://www.mags.nrw/sites/default/files/asset/document/200310_erlass_grossveranstaltungen.pdf)                                                                | 10.03.2020 | unbegrenzt | Gültig |
+| [Ergänzung um weiteren kontaktreduzierenden Manßnahmen](https://www.land.nrw/sites/default/files/asset/document/200317_erlass_ergaenzung_weitere_kontaktreduzierende_massnahmen.pdf)            | 16.03.2020 | unbegrenzt | Gültig |
+| [Fortschreibung kontaktreduzierende Maßnahmen](https://www.land.nrw/sites/default/files/asset/document/200317_fortschreibung_der_erlasse_15._und_17.03.2020_kontaktreduzierende_massnahmen.pdf) | 18.03.2020 | unbegrenzt | Gültig |
+| [Weitere kontaktreduzierende Maßnahmen](https://www.land.nrw/sites/default/files/asset/document/200315_erlass_weitere_kontaktreduzierende_massnahmen.pdf)                                       | 16.03.2020 | unbegrent  | Gültig |
+|                                                                                                                                                                                                 |            |            |        |
 
-  - [Erlass
-    Veranstaltungen](https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1622419)
-  - [Allgemeinverfügung
-    Schulen](https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1622477)
+#### Rheinland-Pfalz
 
-###### Niedersachsen
+| Verordnung                                                                                                                                                                          | Gültig ab  | Gültig bis | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| [AllgV zu Ladenschließungen](https://www.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Anlagen_fuer_Pressemitteilungen/Allgemeinverfuegung_Ladenoeffnung.pdf)                                | 17.03.2020 | 19.04.2020 | Gültig |
+| [Untersagung von Veranstaltungen](https://msagd.rlp.de/fileadmin/msagd/Gesundheit_und_Pflege/GP_Dokumente/200313_Erlass_Untersagung_Veranstaltungen.pdf)                            | 16.03.2020 | 10.04.2020 | Gültig |
+| [Schließung von Schulen](https://msagd.rlp.de/fileadmin/msagd/Gesundheit_und_Pflege/GP_Dokumente/200313_Erlass_Schulen_Kindertageseinrichtungen.pdf)                                | 13.03.2020 | 19.04.2020 | Gültig |
+| [Einschränkung der Besuchsrechte](https://msagd.rlp.de/fileadmin/msagd/Gesundheit_und_Pflege/GP_Dokumente/200316_Erlass_Krankenhaeuser_Altenpflegeheime_sonstige_Einrichtungen.pdf) | 10.03.2020 | unbegrenzt | Gültig |
+| [ErlasszuweiterenkontaktreduzierendenMaßnahmen](https://msagd.rlp.de/fileadmin/msagd/Presse/Presse_Dokumente/200317_Erlass_weitere_Kontaktreduzierende_Massnahmen.pdf)              | 17.03.2020 | unbegrenzt | Gültig |
+| [Steuerliche Maßnahmen für Unternehmen](https://isb.rlp.de/fileadmin/user_upload/ISB_steuerliche_Massnahmen_wegen_des_Corona-Virus.pdf)                                             | 11.03.2020 | unbegrenzt | Gültig |
+|                                                                                                                                                                                     |            |            |        |
 
-  - [2020-03-09 Umgang mit
-    Veranstaltungen](https://www.niedersachsen.de/download/152888/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zum_Umgang_mit_Veranstaltungen_vom_09.03.2020.pdf)
-  - [Schließung von
-    Schulen](https://www.mk.niedersachsen.de/download/153113)
-  - [Schließung von
-    Gemeinschaftseinrichtungen](https://www.mk.niedersachsen.de/download/153113)
-  - [2020-03-16 PM untersagt alle öffentlichen Veranstaltungen -
-    Schließung aller Freizeit- und Kultureinrichtungen und Teile des
-    Einzelhandels](https://www.ms.niedersachsen.de/startseite/service_kontakt/presseinformationen/massnahmen-im-kampf-gegen-covid-19-land-untersagt-alle-offentlichen-veranstaltungen-schliessung-aller-freizeit-und-kultureinrichtungen-und-teile-des-einzelhandels-186324.html)
-  - [2020-03-16 Erlass zur Beschränkung des Zugangs zu den Inselnn,
-    Halligen und
-    Warften](https://www.ms.niedersachsen.de/download/153169/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_des_Zugangs_zu_den_Inselnn_Halligen_und_Warften_vom_16.03.2020.pdf)
-  - [2020-03-16 Erlass zur Ausweitung kontaktreduzierender Maßnahmen für
-    Krankenhäuser, Heime für ältere Menschen
-    etc.](https://www.ms.niedersachsen.de/download/153170/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Ausweitung_kontaktreduzierender_Massnahmen_fuer_Krankenhaeuser_Heime_fuer_aeltere_Menschen_etc._vom_16.03.2020.pdf)
-  - [2020-03-16 Erlass zur Beschränkung von sozialen Kontakten im
-    öffentlichen Bereich
-    (Handeln-Freizeit-Kultur)](https://www.ms.niedersachsen.de/download/153171/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_von_sozialen_Kontakten_im_oeffentlichen_Bereich_Handeln-Freizeit-Kultur_vom_16.03.2020.pdf)
-  - [2020-03-16+ Allgemeinverfügung (Muster) zur Beschränkung von von
-    sozialen Kontakten im öffentlichen Raum
-    (Handel-Freizeit-Kulutr(sic\!))](https://www.ms.niedersachsen.de/download/153172/Allgemeinverfuegung_Muster_zur_Beschraenkung_von_von_sozialen_Kontakten_im_oeffentlichen_Raum_Handel-Freizeit-Kulutr_vom_16.03.2020.pdf)
+#### Saarland
 
+| Verordnung                                                                                                                                                                    | Erlassen   | Gültig bis | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| [Veranstaltungsverbote und Betriebsuntersagung](https://www.saarland.de/dokumente/dienststelle_LAS/Allgemeinverfuegung_zum_Vollzug_des_Infektionsschutzgesetzes_13032020.pdf) | 18.03.2020 | 20.04.2020 | Gültig |
+| [Schließung Kindergärten,](https://www.saarland.de/dokumente/dienststelle_LAS/Allgemeinverfuegung_Corona_14032020.pdf)                                                        | 13.03.2020 | 24.04.2020 | Gültig |
+| [Verbot von Veranstltungen mit über 1000 Teilnehmern](https://www.saarland.de/dokumente/res_soziales/Allgemeinverfuegung.pdf)                                                 | 11.03.2020 | unbegrenzt | Gültig |
 
-###### Nordrhein-Westfalen
+#### Sachsen
 
-  - [Weitere kontaktreduzierende Maßnahmen](https://www.land.nrw/sites/default/files/asset/document/200317_fortschreibung_der_erlasse_15._und_17.03.2020_kontaktreduzierende_massnahmen.pdf)
-  - [Umgang mit
-    Großveranstaltungen](https://www.mags.nrw/sites/default/files/asset/document/200310_erlass_grossveranstaltungen.pdf)
-  - [Maßnahmenpaket](https://www.mags.nrw/pressemitteilung/landesregierung-beschliesst-massnahmenpaket-zur-eindaemmung-des-corona-virus)
-  - [Schließung von Freizeit-, Sport-, Unterhaltungs- und
-    Bildungsstätten](https://www.land.nrw/de/pressemitteilung/landesregierung-beschliesst-weitere-massnahmen-zur-eindaemmung-der-corona-virus)
+| Verordnung                                                                                                                                                          | Erlassen   | Gültig bis                     | Status |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ | ------ |
+| [Maßnahmen anlässlich der Corona-Pandemie: Verbot von Veranstaltungen](https://www.staatsregierung.sachsen.de/download/allgv-corona-veranstaltungen.pdf)            | 19.03.2020 | 20.04.2020                     | Gültig |
+| [Allgemeinverfügung Einstellung des Bildungsbetriebs und Schließung Kinderbetreuung](http://schule-sachsen.de/20_03_16_Allgemeinverfuegung_Corona_Kita_Schulen.pdf) | 18.03.2020 | 17.04.2020                     | Gültig |
+| [Aussetzung Präsenzpflicht Vorbereitungsdienst](http://schule-sachsen.de/20_03_15_Erlass_Praesenzpflicht_Staatspruefungen.pdf)                                      | 17.03.2020 | analog aussetzung Schulbetrieb | Gültig |
 
+#### Sachsen-Anhalt
 
-###### Rheinland-Pfalz
+| Verordnung                                                                                                                                                                                                        | Gültig ab  | Gültig bis | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| [Beschluss der Landesregierung zu COVID-19](https://stk.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/STK/Startseite_pdf_Dokumente/Vorprotokoll_024._Sonder_13.03.2020_Coronavirus.pdf)       | 13.03.2020 | unbegrenzt | Gültig |
+| [Verbot von Veranstaltungen mit mehr als 1000 Personen](https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/Presse_Corona/erlass_zur_durchfuehrung_von_Vernastaltungen_12_03_2020.pdf) | 11.03.2020 | unbegrenzt | Gültig |
+| [SARS-CoV-2-Eindammungsverordnung](https://stk.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/STK/Startseite_pdf_Dokumente/Verordnung_unterschrieben.pdf)                                      | 18.03.2020 | 19.03.2020 | Gültig |
+| [Erlass zur Notbetreuung](https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/2_Gesundheit/2020_03_15_Erlass-Notbetreuung.pdf)                                                         | 16.03.2020 | 13.04.2020 | Gültig |
+| [Erlass Großveranstaltungen](https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/Presse_Corona/erlass_zur_durchfuehrung_von_Vernastaltungen_12_03_2020.pdf)                            | 11.03.2020 | unbegrenzt | Gültig |
+| [Ausnahme Sonntagsfahrverbot](https://mlv.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MLV/Newsarchiv/Befristete-Ausnahme-Sonn-Feiertagsfahrverbot-Sachsen-Anhalt.pdf)                       | 17.03.2020 | 31.08.2020 | Gültig |
+|                                                                                                                                                                                                                   |            |            |        |
 
- - [Informationsportal zum Corona-Virus](https://corona.rlp.de)
+#### Schleswig-Holstein
 
-###### Saarland
+| Verordnung                                                                                                                                                                                                                                                                          | Erlassen   | Gültig bis | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| [SARS-CoV-2-Bekämpfungsverordnung](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/LandesverordnungCoronaMitUnterschriften.pdf?__blob=publicationFile&v=1)                                                                                                    | 17.03.2020 | 19.04.2020 | Gültig |
+| [Erlass von Allgemeinverfügungen zum Verbot und zur Beschränkung von Kontakten in besonderen öffentlichen Bereichen](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/200314_erlass.html)                                                                      | 16.03.2020 | 19.04.2020 | Gültig |
+| [Erlass zur Beschränkung des Zugangs zu den Inseln, Halligen und Warften an Nordund Ostsee](https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200129_Grippe_Coronavirus_material/200315_erlass_halligen_download.pdf?__blob=publicationFile&v=1) | 16.03.2020 | 19.04.2020 | Gültig |
+| [Erlass von Allgemeinverfügungen zum Verbot und zur Beschränkung von Angeboten in Kur- und Rehaeinrichtungen sowie in teilstationären Pflegeeinrichtungen](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/Erlass_KurRehaEinrichtungen.html)                  | 16.03.2020 | 19.04.2020 | Gültig |
+| [Steuerliche Maßnahmen zur Unterstützung von durch Corona betroffenen Unternehmen](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/200316_erlass_steuerstundungen.html)                                                                                       | 16.03.2020 | 31.12.2020 | Gültig |
+| [Erlass zum kommunalen Sitzungsdienst](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/200316_kommunaler_sitzungsdienst.html)                                                                                                                                 | 16.03.2020 | unbegrenzt | Gültig |
 
- - [Schließung von Schulen und
-    Kitas](https://www.saarland.de/6767_254167.htm)
-  - [Verschiebung
-    Semesterbeginn](https://www.saarland.de/6767_254111.htm)
-  - [Schließung von Schwimmbädern, Kinderindoorhallen, Discos, Bars,
-    Clubs, Schwimmbädern & Prostitutionsgewerbe an – Kinos & Altenheime
-    nur noch
-    beschränkt](https://twitter.com/saarland_de/status/1238822764708052992)
+#### Thüringen
 
-###### Sachsen
+| Verordnung                                                                                                                                                                | Gültig ab  | Gültig bis | Status               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | -------------------- |
+| [Richtlinie zu Veranstaltungen](https://www.mdr.de/thueringen/coronavirus-thueringen-erlass-veranstaltungen-100-downloadFile.pdf)                                         | 14.03.2020 | 10.04.2020 | Gültig               |
+| [Richtlinie zu Veranstaltungen](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/Anlage_Orientierung_fuer_Menschenansammlungen.pdf)               | 10.03.2020 | unbegrenzt | Aufgehoben / Ersetzt |
+| [Verbot von Veranstaltungen mit mehr als 1000 Personen](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20201003_Erlass_TLVwA_Corona.pdf)        | 10.03.2020 | 10.04.2020 | Aufgehoben / Ersetzt |
+| [AllgV zu SARS-CoV-2](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20200316_Erlass_Corona.pdf)                                                | 18.03.2020 | 19.04.2020 | Gültig               |
+| [Zuwendungsrechtliche Regelungen](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20200316_Zuwendungsrechtliche_Regelungen_und_Empfehlungen.pdf) | 16.03.2020 | 18.04.2020 | Gültig               |
+|                                                                                                                                                                           |            |            |                      |
 
-  - [Verbot von Veranstaltungen mit mehr als 1000
-    Personen](https://www.sms.sachsen.de/download/Erlass_Grossveranstaltungen.pdf)
-  - [Kabinettsbeschlüsse](https://www.staatsregierung.sachsen.de/aus-dem-kabinett-4512.html?_cp=%7B%7D)
+## Pandemiepläne
 
+  - Übersicht der Pandemiepläne des RKI:
+    [1](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplaene_Bundeslaender.html)
+  - Hinweis: Die vom RKI verlinkten Pandemiepläne sind teilweise
+    veraltet. Wenn unten Links zu den länderspezifischen Plänen
+    vorhanden sind, sind diese aktueller.
 
-###### Sachsen-Anhalt
-
- - [Beschluss der Landesregierung zu COVID-19 vom 13. März
-    2020](https://stk.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/STK/Startseite_pdf_Dokumente/Vorprotokoll_024._Sonder_13.03.2020_Coronavirus.pdf)
-  - [Verbot von Veranstaltungen mit mehr als 1000
-    Personen](https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/Presse_Corona/erlass_zur_durchfuehrung_von_Vernastaltungen_12_03_2020.pdf)
-  - [Schulfahrten, schulische Studienfahrten und Schüleraustausche
-    ausgesetzt](https://mb.sachsen-anhalt.de/start/news-detailansicht/news/informationen-zum-coronavirus/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=babc1fe317a82cc1b61f6edcbf981e9a)
-
-
-###### Schleswig-Holstein
-
-  - [Alle Erlasse auf einer
-    Seite](https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200129_Grippe_Coronavirus.html)
-  - [Erlass zu
-    Veranstaltungen](https://schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200129_Grippe_Coronavirus_material/Dokumente/erlass_veranstaltungen.pdf?_blob=publicationFile&v=2)
-
-
-###### Thüringen
- - [**Gültig 14.03.2020** Richtlinie zu
-    Veranstaltungen](https://www.mdr.de/thueringen/coronavirus-thueringen-erlass-veranstaltungen-100-downloadFile.pdf)
-  - [**Aufgehoben/Ersetz**t 10.03.2020 Richtlinie zu
-    Veranstaltungen](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/Anlage_Orientierung_fuer_Menschenansammlungen.pdf)
-  - [Verbot von Veranstaltungen mit mehr als 1000
-    Personen](https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20201003_Erlass_TLVwA_Corona.pdf)
-  - [Schließung von Schulen und
-    Kitas](https://www.tmasgff.de/medienservice/artikel/thueringen-plant-kindergarten-und-schulschliessungen-sowie-strengere-auflagen-fuer-oeffentliche-veranstaltungen)
-
-
-#### Pandemiepläne
-
-- Übersicht der Pandemiepläne des RKI:
-    [Übersicht der Pandemiepläne des RKI](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplaene_Bundeslaender.html)
-
-* Hinweis: Die vom RKI verlinkten Pandemiepläne sind teilweise veraltet. Wenn unten Links zu den länderspezifischen Plänen vorhanden sind, sind diese aktueller.
+<!-- end list -->
 
   - [Ergänzung zum Nationalen Pandemieplan –
-    COVID-19](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.pdf?_blob=publicationFile)
+    COVID-19](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.pdf?__blob=publicationFile)
 
+### Pläne der Bundesländer
 
-##### Pläne der Bundesländer
   - [Baden-Württemberg](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Influenzapandemieplan-BW.pdf)
   - Bayern: Noch keine Anpassung an SARS-CoV-2
   - Berlin: Noch keine Anpassung an SARS-CoV-2
@@ -370,8 +364,7 @@ TBD
   - Schleswig-Holstein: Noch keine Anpassung an SARS-CoV-2
   - Thüringen: Noch keine Anpassung an SARS-CoV-2
 
-#### Veranstaltungslimitierungen
-
+## Veranstaltungslimitierungen
 
 <table>
 <thead>
@@ -390,7 +383,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
 </tr>
 <tr class="even">
 <td><p>Baden-Württemberg</p></td>
-<td><p>&lt;100 Personen: Untersagung durch zuständige Behörde nach Risikoanalyse möglich &gt;100 Personen: grundsätzliche Untersagung der Veranstaltung, genehmigung unter Auflagen bei wichtigem Grund möglich</p></td>
+<td><p>Versammlungen und sonstige Verantstaltungen sind grundsätzlich untersagt, Ausnahmen unter Auflagen aus wichtiegm Grund möglich.</p></td>
 <td><p>15.06.2020</p></td>
 </tr>
 <tr class="odd">
@@ -440,7 +433,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
 </tr>
 <tr class="even">
 <td><p>Saarland</p></td>
-<td><p>Aktuell keine Limitierungen</p></td>
+<td><p>&gt;5 Personen: Untersagung der Veranstaltung</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -469,16 +462,14 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
 </tbody>
 </table>
 
+## Sonstiges
 
-#### Sonstiges
-
-  - [Vollständiges Genom
-    des
+  - [Vollständiges Genom des
     Virus](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
-  - [Globale
+  - [Analyse globaler
     Aktiencrashs](http://www.dkriesel.com/blog/2020/0310_verschiedenste_globale_aktiencrashs_direkt_nebeneinander)
 
-#### Hacks
+### Hacks
 
   - [Stethoskop als
     O2-Y-Stück](https://twitter.com/TahaMD_EM/status/1238017888897900544)
