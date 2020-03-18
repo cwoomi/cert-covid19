@@ -138,6 +138,8 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 
 ## Erlasse
 
+***[Erlasse einzelner Städte](/erlasse_grossstadt.md)***
+***[Ausgangssperren](/ausgangssperren.md)***
 
 ### Bundesweit
 
