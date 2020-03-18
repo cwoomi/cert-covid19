@@ -161,11 +161,15 @@ TBD
     Risikogebieten](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-Gaemter-BW_Kliniken-Heime.pdf)
   - [Weisung an die Gesundheitsämter vom 13.03.2020 hinsichtlich
     Großveranstaltungen](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-SM-BW-Gro%C3%9Fveranstaltungen.pdf)
-  - [Verordnung der Landesregierung über infektionsschützende Maßnahmen
+  - [~Verordnung der Landesregierung über infektionsschützende Maßnahmen
     gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung -
     CoronaVO) vom 16. März
-    2020](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200316_StM_VO_IfSG_Corona.pdf)
-  - [Weitere kontaktreduzierende Maßnahmen - Ladenschließungen etc.](https://stm.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/landesregierung-beschliesst-massnahmen-gegen-die-ausbreitung-des-coronavirus/)
+    2020~ **Ersetzt**](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200316_StM_VO_IfSG_Corona.pdf)
+  - [Verordnung der Landesregierung über infektionsschützende Maßnahmen
+    gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung -
+    CoronaVO) vom 17. März
+    2020](https://stm.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/landesregierung-beschliesst-massnahmen-gegen-die-ausbreitung-des-coronavirus/)
+  - [Mitschnitt der PK zu aktuellen Beschlüssen der Landesregierung vom 17.03.](https://www.youtube.com/watch?v=BPoV2wQqkMs&feature=youtu.be)
 
 
 ###### Bayern
