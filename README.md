@@ -165,6 +165,7 @@ TBD
     gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung -
     CoronaVO) vom 16. März
     2020](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200316_StM_VO_IfSG_Corona.pdf)
+  - [Weitere kontaktreduzierende Maßnahmen - Ladenschließungen etc.](https://stm.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/landesregierung-beschliesst-massnahmen-gegen-die-ausbreitung-des-coronavirus/)
 
 
 ###### Bayern
