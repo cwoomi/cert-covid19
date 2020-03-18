@@ -257,15 +257,28 @@ TBD
 
 ###### Niedersachsen
 
-  - [2020-03-16 PM untersagt alle öffentlichen Veranstaltungen -
-    Schließung aller Freizeit- und Kultureinrichtungen und Teile des
-    Einzelhandels](https://www.ms.niedersachsen.de/startseite/service_kontakt/presseinformationen/massnahmen-im-kampf-gegen-covid-19-land-untersagt-alle-offentlichen-veranstaltungen-schliessung-aller-freizeit-und-kultureinrichtungen-und-teile-des-einzelhandels-186324.html)
-  - [Umgang mit
+  - [2020-03-09 Umgang mit
     Veranstaltungen](https://www.niedersachsen.de/download/152888/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zum_Umgang_mit_Veranstaltungen_vom_09.03.2020.pdf)
   - [Schließung von
     Schulen](https://www.mk.niedersachsen.de/download/153113)
   - [Schließung von
     Gemeinschaftseinrichtungen](https://www.mk.niedersachsen.de/download/153113)
+  - [2020-03-16 PM untersagt alle öffentlichen Veranstaltungen -
+    Schließung aller Freizeit- und Kultureinrichtungen und Teile des
+    Einzelhandels](https://www.ms.niedersachsen.de/startseite/service_kontakt/presseinformationen/massnahmen-im-kampf-gegen-covid-19-land-untersagt-alle-offentlichen-veranstaltungen-schliessung-aller-freizeit-und-kultureinrichtungen-und-teile-des-einzelhandels-186324.html)
+  - [2020-03-16 Erlass zur Beschränkung des Zugangs zu den Inselnn,
+    Halligen und
+    Warften](https://www.ms.niedersachsen.de/download/153169/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_des_Zugangs_zu_den_Inselnn_Halligen_und_Warften_vom_16.03.2020.pdf)
+  - [2020-03-16 Erlass zur Ausweitung kontaktreduzierender Maßnahmen für
+    Krankenhäuser, Heime für ältere Menschen
+    etc.](https://www.ms.niedersachsen.de/download/153170/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Ausweitung_kontaktreduzierender_Massnahmen_fuer_Krankenhaeuser_Heime_fuer_aeltere_Menschen_etc._vom_16.03.2020.pdf)
+  - [2020-03-16 Erlass zur Beschränkung von sozialen Kontakten im
+    öffentlichen Bereich
+    (Handeln-Freizeit-Kultur)](https://www.ms.niedersachsen.de/download/153171/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_von_sozialen_Kontakten_im_oeffentlichen_Bereich_Handeln-Freizeit-Kultur_vom_16.03.2020.pdf)
+  - [2020-03-16+ Allgemeinverfügung (Muster) zur Beschränkung von von
+    sozialen Kontakten im öffentlichen Raum
+    (Handel-Freizeit-Kulutr(sic\!))](https://www.ms.niedersachsen.de/download/153172/Allgemeinverfuegung_Muster_zur_Beschraenkung_von_von_sozialen_Kontakten_im_oeffentlichen_Raum_Handel-Freizeit-Kulutr_vom_16.03.2020.pdf)
+
 
 ###### Nordrhein-Westfalen
 
