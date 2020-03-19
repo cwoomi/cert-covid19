@@ -50,6 +50,9 @@ Damit die Seite nicht zu voll wird: Grossstädte sind Städte mit über
     [Allgemeinverfügung
     vom 18.03.2020](https://www.muenster.de/muenster_media/PDF/Allgemeinverf%C3%BCgung.pdf)
 
+**Witten**
+  - [Allgemeinverfügung zur Bekämpfung von Infektionskrankheiten beim Menschen vom 17. März 2020](https://www.witten.de/fileadmin/user_upload/Bilder/ref02/Bekanntmachung/Amtsblatt_2020/AB-08.pdf)
+
 ## Rheinland-Pfalz
 
 ## Saarland
