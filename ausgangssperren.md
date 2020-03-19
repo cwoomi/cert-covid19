@@ -23,7 +23,8 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 | Stadt       | Verordnung                                                                                           | Gültig ab  | Gültig bis | Status |
 | ----------- | ---------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
 | Mitterteich | [AllgV zur Ausganngssperre](https://www.kreis-tir.de/fileadmin/user_upload/Ausgangssperre_final.pdf) | 18.03.2020 | 02.04.2020 | Gültig |
-|             |                                                                                                      |            |            |        |
+| Wunsiedel  | https://www.landkreis-wunsiedel.de/buergerservice/news/2020/corona-virus-teilweise-ausgangssperre-erlassen | 19.03.2020 | | Gültig |
+|            |      |  |  |  |
 
 #### Berlin
 
