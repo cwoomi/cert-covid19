@@ -58,6 +58,10 @@ Damit die Seite nicht zu voll wird: Grossstädte sind Städte mit über
 
 ## Sachsen-Anhalt
 
+**Halle (Saale)**
+
+ - Am 18.3.2020 wurde der [Katastrophenfall ausgerufen](https://www.halle.de/push.aspx?s=downloads/News/45334/vermerk_eintritt_des_katastrophenfalles.pdf), damit einhergehend gelten [weiterreichende Beschränkungen](https://www.halle.de/de/Verwaltung/Presseportal/Nachrichten/index.aspx?NewsId=45334) (z.B. Verbot aller öffentlichen und nicht-öffentlichen Veranstaltungen, Schließung von Restaurants).
+
 ## Schleswig-Holstein
 
 ## Thüringen
