@@ -493,3 +493,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
     O2-Y-Stück](https://twitter.com/TahaMD_EM/status/1238017888897900544)
   - [Medizin-Hackathon zum Design eines offenen
     Beatmungsgeräts](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
+
+### Bürger*innenrechte
+
+  - [Corona-Epidemie: Tagebuch der Inneren Sicherheit](https://www.cilip.de/institut/corona-tagebuch/) von [Bürgerrechte & Polizei/CILIP](https://de.wikipedia.org/wiki/B%C3%BCrgerrechte_%26_Polizei/CILIP)
