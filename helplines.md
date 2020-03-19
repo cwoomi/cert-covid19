@@ -143,6 +143,7 @@ informieren kann.
 
 | **Ort** | **Stelle**          | **Telefonnummer** | **Öffnungszeiten**             | **Anmerkungen**    |
 | ------- | ------------------- | ----------------- | ------------------------------ | ------------------ |
+| Halle (Saale)   | Bürger\*innentelefon | 115     | 24/7 | u.a. Telefon-Hotline Coronavirus |
 | Stadt   | z.B. Gesundheitsamt | xxxx - xxxxxx     | z.B. mo - fr, 7:00 - 18:00 Uhr | was bieten die an? |
 
 
