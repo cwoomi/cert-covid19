@@ -35,7 +35,7 @@ Damit die Seite nicht zu voll wird: Grossstädte sind Städte mit über
 
 **Düsseldorf**
 
-  - [Allgeimverfügungen](https://www.duesseldorf.de/leben-in-duesseldorf/informationen-zum-coronavirus/allgemeinverfuegungen-der-landeshauptstadt-duesseldorf/)
+  - [Allgemeinverfügungen](https://www.duesseldorf.de/leben-in-duesseldorf/informationen-zum-coronavirus/allgemeinverfuegungen-der-landeshauptstadt-duesseldorf/)
   
 **Dortmund**
 
