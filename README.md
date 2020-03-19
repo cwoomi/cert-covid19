@@ -2,7 +2,7 @@
 
 Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten. Diese Sammlung ist durch unsere Arbeit im [C3 CERT](https://twitter.com/c3cert) entstanden.
 
-Stand: 18.03.2020 - 21:30Uhr
+Stand: 19.03.2020 - 16:30Uhr
 
 ***[Kontakttelefonnummern](/helplines.md)***
 
