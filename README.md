@@ -493,6 +493,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
     O2-Y-Stück](https://twitter.com/TahaMD_EM/status/1238017888897900544)
   - [Medizin-Hackathon zum Design eines offenen
     Beatmungsgeräts](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
+  - [Aufruf Reparaturanleitungen für medizinischen Geräte zu sammeln](https://www.ifixit.com/News/36354/help-us-crowdsource-repair-information-for-hospital-equipment) bei [iFixit](https://de.wikipedia.org/wiki/IFixit)
 
 ### Bürger*innenrechte
 
