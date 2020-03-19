@@ -12,7 +12,7 @@ Stand: 19.03.2020 - 16:30Uhr
     worldwide](https://www.who.int/redirect-pages/page/novel-coronavirus-\(covid-19\)-situation-dashboard)
   - [WHO europe](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/ead3c6475654481ca51c248d52ab9c61)
   - [Deutschland](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
-  - [John Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
+  - [Johns Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
   - [Coronavirus Charts](https://mackuba.eu/corona/)
   - [Coronavirus
     Worldmeter](https://www.worldometers.info/coronavirus/country/germany/)
