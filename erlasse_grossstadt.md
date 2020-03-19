@@ -38,6 +38,9 @@ Damit die Seite nicht zu voll wird: Grossstädte sind Städte mit über
   - [Verbot aller öffentlicher
     Veranstaltungen](https://www.dortmund.de/media/downloads/pdf/bekanntmachungen/db_2020/dobeka_11_2020_Extraausgabe.pdf)
 
+**Essen**
+  - [Allgemeinverfügung zum Zwecke der Verhütung und Bekämpfung der Ausbreitung des Corona-Virus SARS-CoV-2 vom 18.03.2020](https://media.essen.de/media/wwwessende/aemter/32/Coronavirus_20200318_Allgemeinverfuegung_Stadt_Essen.pdf)
+
 **Münster**
 
   - Gem. §§ 16 Abs. 1 Satz 1, 28 Abs. 1 Satz 2 des Gesetzes zur
