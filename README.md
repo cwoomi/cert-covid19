@@ -1,16 +1,7 @@
-# Informationssammlung zum Thema CoVid-19.
-
-Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten. Diese Sammlung ist durch unsere Arbeit im [C3 CERT](https://twitter.com/c3cert) entstanden.
-
-Stand: 19.03.2020 - 16:30Uhr
-
-***[Kontakttelefonnummern](/helplines.md)***
-
 ## Dashboards
 
   - [WHO
     worldwide](https://www.who.int/redirect-pages/page/novel-coronavirus-\(covid-19\)-situation-dashboard)
-  - [WHO europe](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/ead3c6475654481ca51c248d52ab9c61)
   - [Deutschland](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
   - [Johns Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
   - [Coronavirus Charts](https://mackuba.eu/corona/)
@@ -19,10 +10,9 @@ Stand: 19.03.2020 - 16:30Uhr
   - [Morgenpost interaktive
     Karte](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
   - [Dashboard zur Entwicklung](https://avatorl.org/covid-19/)
-  - [European Center for Disease Control](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html)
-  - [Coronavirus statistics and information](https://coronawiki.org/)
-  - [Tagesspiegel interaktive Karte nach Landkreisen](https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/)
-
+  - [European Centre for Disease Prevention and
+    Control](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html)
+  - [Tableau.com](https://www.tableau.com/covid-19-coronavirus-data-resources)
 
 ## Lageinformationen
 
@@ -35,6 +25,8 @@ Stand: 19.03.2020 - 16:30Uhr
   - [Podcast von Dr. Christian Drosten, Virologe an der
     Charité](https://www.ndr.de/nachrichten/info/podcast4684.html)
   - [COVID-19 Fallzahlen in D](https://covid-19.openmedical.de)
+  - [Reisewarnung des Auswärtigen Amtes bis Ende
+    April](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/covid-19/2296762)
 
 ## Checklisten
 
@@ -43,7 +35,9 @@ Stand: 19.03.2020 - 16:30Uhr
   - [Risikoeinschätzung für
     Veranstalter](https://www.dresden.de/media/pdf/gesundheit/HYG/Corona_Risikoeinschaetzung_Veranstalter.pdf)
 
+
 ## Prophylaxe / Maßnahmen
+
 
   - [Händedesinfektionsmittel - Hausrezept der
     WHO](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf?ua=1)
@@ -73,6 +67,15 @@ Stand: 19.03.2020 - 16:30Uhr
     Lombardy](https://jamanetwork.com/journals/jama/fullarticle/2763188)
   - [RKI zur Mehrfachverwendung von Masken bei
     Engpässen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ressourcen_schonen_Masken.pdf?__blob=publicationFile)
+  - [Untersuchung der Desinfizierung von Masken durch
+    Pflegepersonal](https://www.sciencedirect.com/science/article/pii/S0196655315000899)
+  - [The ICU Student Support project (training material
+    De/En)](https://github.com/pwende/Students-Supporting-Critical-Care)
+  - [ICU organization, logistics and repurposing, teaching material, De
+    - USZ
+    CH](http://www.intensivmedizin.usz.ch/fachwissen/seiten/covid-19-epidemics.aspx)
+  - [Empfehlungen für Geburtskliniken bei Verdacht auf
+    COVID-19](https://www.aerzteblatt.de/nachrichten/111215/Fachgesellschaft-gibt-Empfehlungen-fuer-Geburtskliniken-bei-Verdacht-auf-COVID-19)
 
 ## Diagnostik
 
@@ -106,6 +109,10 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
     COVID-19](https://www.amboss.com/de/wissen/covid-19)
   - [Therapieschema aus dem
     Bundeswehrzentralkrankenhaus](https://cert.ccc.de/wiki/images/Therapieschema_aus_dem_BundeswehrZentralkrankenhaus.pdf)
+  - [King's Critical Care - Evidence Summary, Clinical Management of
+    COVID-19](https://cert.ccc.de/wiki/images/KCC_COVID19_Evidence_Summary.pdf)
+  - [ITS-Diagnostik und -Therapie gut
+    zusammengefasst](https://www.aerzteblatt.de/archiv/213160)
 
 ## Testtherapien / Forschung
 
@@ -140,6 +147,8 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
     Regulation](https://www.hindawi.com/journals/ppar/2019/1371758/)
   - [Risikofaktor
     Rauchen](https://tobacco.ucsf.edu/reduce-your-risk-serious-lung-disease-caused-corona-virus-quitting-smoking-and-vaping)
+  - [Age, Sex, Existing Conditions of COVID-19 Cases and
+    Deaths](https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/)
 
 ## Erlasse
 
@@ -167,7 +176,8 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
   - [Reisebeschränkungen](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/corona-reisebeschraenkungen.html)
   - [Grenzkontrollen an AT, CH, F, LUX,
     DEN](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/grenzschliessung-corona.html)
-
+  - [Schutzschildfür Beschäftigte und
+    Unternehmen](https://www.bmwi.de/Redaktion/DE/Downloads/S-T/schutzschild-fuer-beschaeftigte-und-unternehmen.pdf?__blob=publicationFile&v=14)
 
 ### Länderspezifisch
 
@@ -181,8 +191,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | [Weisung an die Gesundheitsämter hinsichtlich Umgang mit Menschen aus Risikogebieten](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-Gaemter-BW_Kliniken-Heime.pdf)   | 12.03.2020 | unbegrenzt           | Gültig               |
 | [Weisung an die Gesundheitsämter hinsichtlich Großveranstaltungen](https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/m-sm/intern/downloads/Downloads_Gesundheitsschutz/Coronavirus_Weisung-SM-BW-Gro%C3%9Fveranstaltungen.pdf)                 | 13.03.2020 | unbegrenzt           | Gültig               |
 | [Verordnung der Landesregierung über infektionsschützende Maßnahmen gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung - CoronaVO)](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200316_StM_VO_IfSG_Corona.pdf)                  | 16.03.2020 | unbegrenzt           | Aufgehoben / Ersetzt |
-| [Verordnung der Landesregierung über infektionsschützende Maßnahmen gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung - CoronaVO)](https://stm.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200317_StM_VO_IfSG_Corona.pdf)                  | 17.03.2020 | 15.06.2020           | Gültig               |
-| [Verordnung der Landesregierung zur Änderung der Corona-Verordnung)](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200320_Verordnung_zur_Aenderung_der_CoronaVO.pdf)                  | 20.03.2020 | 15.06.2020           | Gültig               |
+| [Verordnung der Landesregierung über infektionsschützende Maßnahmen gegen die Ausbreitung des Virus SARS-Cov-2 (Corona-Verordnung - CoronaVO)](https://stm.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/200317_StM_VO_IfSG_Corona.pdf)                  | 17.03.2020 | unbegrenzt           | Gültig               |
 |                                                                                                                                                                                                                                                                  |            |                      |                      |
 
 #### Bayern
@@ -201,6 +210,8 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | [Verbot von Veranstaltungen mit mehr als 1000 Teilnehmern](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/2020-03-11_veranstaltungen_allgemeinverfuegung.pdf)                                                                                            | 11.03.2020 | 19.04.2020 | Aufgehoben / Ersetzt |
 | [Feststellung des Katastrophenfalls](https://www.verkuendung-bayern.de/files/baymbl/2020/115/baymbl-2020-115.pdf)                                                                                                                                                | 16.03.2020 | unbegrenzt | Gültig               |
 | [Bayerischer Landes-Sport Verband: Einstellung sämtlicher Sport Trainings-, Schulung- und Wettkampfveranstaltungen](https://www.blsv.de/fileadmin/user_upload/pdf/Corona/Pressemitteilung.pdf)                                                                   | 13.03.2020 | 19.04.2020 | NGO / Verband        |
+| [AllgV zur Verschiebung elektiver Eingriffe und geplanter Maßnahmen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/verbot-elektive-faelle-in-kh-v-19-03-2020.pdf)                                                                                       | 20.03.2020 | 15.05.2020 | Gültig               |
+|                                                                                                                                                                                                                                                                  |            |            |                      |
 
 #### Berlin
 
@@ -253,9 +264,9 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | [Zweite Verordnung zur Bekämpfung des Corona-Virus](https://www.hessen.de/sites/default/files/media/2020-03-13_eil_vo_besuchsverbot_ausgefertigt.pdf)                                                                            | 13.03.2020 | 19.04.2020 | Ergänzt              |
 | [Dritte Verordnung zur Bekämpfung des Corona-Virus](https://www.hessen.de/sites/default/files/media/hessen.de_land/verordnung_zu_veranstaltungen.pdf)                                                                            | 14.03.2020 | 19.04.2020 | Ergänzt              |
 | [Änderung der Ersten und Zweiten Verordnung](https://www.hessen.de/sites/default/files/media/staatskanzlei/aenderungsverodnung_zur_bekaempfung_von_corona.pdf)                                                                   | 14.03.2020 | 19.04.2020 | Ergänzt              |
-| [Zweite Änderung der Zweiten Verordnung](https://www.hessen.de/sites/default/files/media/staatskanzlei/2020-03-16_zweite_verordnung_zur_aenderung_der_zweiten_verordnung_zur_bekaempfung_des_corona-virus_kita_und_schule_0.pdf) | 16.03.2020 | 19.04.2020 | Ergänzt              |
+| [Zweite Änderung der Zweiten Verordnung](https://www.hessen.de/sites/default/files/media/staatskanzlei/2020-03-16_zweite_verordnung_zur_aenderung_der_zweiten_verordnung_zur_bekaempfung_des_corona-virus_kita_und_schule_0.pdf) | 16.03.2020 | 19:04.2020 | Ergänzt              |
 | [Vierte Verordnung](https://www.hessen.de/sites/default/files/media/staatskanzlei/2020-03-17_vierte_vo_bekaempfung_corona_virus__0.pdf)                                                                                          | 18.03.2020 | 19.04.2020 | Gültig               |
-| [Fünfte Verordnung](https://www.hessen.de/sites/default/files/media/hessen.de_land/2020-03-16_fuenfte-vo_ops_datum.pdf)                                                                                                                             | 18.03.2020 | 19.04.2020 | Gültig               |
+| <https://www.hessen.de/sites/default/files/media/hessen.de_land/2020-03-16_fuenfte-vo_ops_datum.pdf>                                                                                                                             | 18.03.2020 | 19.04.2020 | Gültig               |
 | [Veranstaltungsverbot](https://soziales.hessen.de/sites/default/files/media/hsm/erlass_von_allgemeinverfuegungen_zum_verbot_von_grossveranstaltungen.pdf)                                                                        | 12.03.2020 | 10.04.2020 | Aufgehoben / Ersetzt |
 |                                                                                                                                                                                                                                  |            |            |                      |
 
@@ -277,7 +288,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | [Fachaufsichtliche Weisung zur beschränkung von sozialen Kontakten](https://www.niedersachsen.de/download/153237/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Ausweitung_kontaktreduzierender_Massnahmen_im_oeffentlichen_Bereich_Uebernachtungen_Gaststaetten_Restaurants_und_Werkstaetten_fuer_behinderte_Menschen_vom_17.03.2020.pdf)                                           | 17.03.2020 | 18.04.2020 | Gültig  |
 | [Beschränkung des Zugangs zu den Inseln Halligen und Warfen der Nordsee](https://www.niedersachsen.de/download/153169/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_des_Zugangs_zu_den_Inselnn_Halligen_und_Warften_vom_16.03.2020.pdf)                                                                                                                               | 17.03.2020 | 18.04.2020 | Gültig  |
 | [Ausweitung kontaktreduzierender Maßnahmen für Krankenhäuser Vorsoge- und Rehaeinrichtungen, Heime für ältere/pflegebedürftige Menschen, Menschen mit Behinderungen](https://www.niedersachsen.de/download/153170/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Ausweitung_kontaktreduzierender_Massnahmen_fuer_Krankenhaeuser_Heime_fuer_aeltere_Menschen_etc._vom_16.03.2020.pdf) | 16.03.2020 | 18.04.2020 | Gültig  |
-| [Maßnahmen zru Beschränkung vim sozialen Kontakten im öffentlichen Bereich](https://www.niedersachsen.de/download/153171/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_von_sozialen_Kontakten_im_oeffentlichen_Bereich_Handeln-Freizeit-Kultur_vom_16.03.2020.pdf)                                                                                                    | 17.03.2020 | 18.04.2020 | Ergänzt |
+| [Maßnahmen zur Beschränkung von sozialen Kontakten im öffentlichen Bereich](https://www.niedersachsen.de/download/153171/Erlass_des_Niedersaechsischen_Gesundheitsministeriums_zur_Beschraenkung_von_sozialen_Kontakten_im_oeffentlichen_Bereich_Handeln-Freizeit-Kultur_vom_16.03.2020.pdf)                                                                                                    | 17.03.2020 | 18.04.2020 | Ergänzt |
 | [Untersagung der Erteilung von Unterricht](https://www.mk.niedersachsen.de/download/153113)                                                                                                                                                                                                                                                                                                     | 16.03.2020 | 18.04.2020 | Gültig  |
 | [Einstellung des Betriebs von Gemeinschafteinrichtungen](https://www.mk.niedersachsen.de/download/153097)                                                                                                                                                                                                                                                                                       | 16.03.2020 | 18.04.2020 | Gültig  |
 
@@ -286,7 +297,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | Verordnung                                                                                                                                                                                      | Gültig ab  | Gültig bis | Status |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
 | [Umgang mit Großveranstaltungen](https://www.mags.nrw/sites/default/files/asset/document/200310_erlass_grossveranstaltungen.pdf)                                                                | 10.03.2020 | unbegrenzt | Gültig |
-| [Ergänzung um weiteren kontaktreduzierenden Maßnahmen](https://www.land.nrw/sites/default/files/asset/document/200317_erlass_ergaenzung_weitere_kontaktreduzierende_massnahmen.pdf)            | 16.03.2020 | unbegrenzt | Gültig |
+| [Ergänzung um weiteren kontaktreduzierenden Manßnahmen](https://www.land.nrw/sites/default/files/asset/document/200317_erlass_ergaenzung_weitere_kontaktreduzierende_massnahmen.pdf)            | 16.03.2020 | unbegrenzt | Gültig |
 | [Fortschreibung kontaktreduzierende Maßnahmen](https://www.land.nrw/sites/default/files/asset/document/200317_fortschreibung_der_erlasse_15._und_17.03.2020_kontaktreduzierende_massnahmen.pdf) | 18.03.2020 | unbegrenzt | Gültig |
 | [Weitere kontaktreduzierende Maßnahmen](https://www.land.nrw/sites/default/files/asset/document/200315_erlass_weitere_kontaktreduzierende_massnahmen.pdf)                                       | 16.03.2020 | unbegrent  | Gültig |
 |                                                                                                                                                                                                 |            |            |        |
@@ -404,7 +415,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
 </tr>
 <tr class="even">
 <td><p>Baden-Württemberg</p></td>
-<td><p>Versammlungen und sonstige Verantstaltungen sind grundsätzlich untersagt, Ausnahmen unter Auflagen aus wichtiegm Grund möglich.</p></td>
+<td><p>Versammlungen und sonstige Verantstaltungen sind grundsätzlich untersagt, Ausnahmen unter Auflagen aus wichtigem Grund möglich.</p></td>
 <td><p>15.06.2020</p></td>
 </tr>
 <tr class="odd">
@@ -444,7 +455,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
 </tr>
 <tr class="even">
 <td><p>Nordrhein-Westfalen</p></td>
-<td><p>&lt;1000 Personen: indiv. Gefahrenanalyse &gt;1000 Personen: Untersagung der Veranstaltung oder Durchführung ohne Zuschauerbeteiligung</p></td>
+<td><p>&lt;1000 Personen: indiv. Gefahrenanalyse &gt;1000 Personen: Untersagung der Veranstaltung oder Durchführung ohne Zuschauerbeteiligung Ab dem 16.03.2019: Alle Veranstaltungen sind abzusagen.</p></td>
 <td><p>unbefristet</p></td>
 </tr>
 <tr class="odd">
@@ -489,6 +500,9 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
     Virus](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
   - [Analyse globaler
     Aktiencrashs](http://www.dkriesel.com/blog/2020/0310_verschiedenste_globale_aktiencrashs_direkt_nebeneinander)
+  - [Die EU-Kommission sucht derzeit dringend nach 3D-Druck-Kapazitäten
+    für medizinische
+    Anwendungen](https://www.it-sicherheitscluster.de/dringend-3d-druck-kapazitaeten-gesucht-atemmasken/)
 
 ### Hacks
 
@@ -496,9 +510,3 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
     O2-Y-Stück](https://twitter.com/TahaMD_EM/status/1238017888897900544)
   - [Medizin-Hackathon zum Design eines offenen
     Beatmungsgeräts](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
-  - [Aufruf Reparaturanleitungen für medizinischen Geräte zu sammeln](https://www.ifixit.com/News/36354/help-us-crowdsource-repair-information-for-hospital-equipment) bei [iFixit](https://de.wikipedia.org/wiki/IFixit)
-  - [DIY Mask - T-Shirt vs Surgical Mask](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/)
-
-### Bürger*innenrechte
-
-  - [Corona-Epidemie: Tagebuch der Inneren Sicherheit](https://www.cilip.de/institut/corona-tagebuch/) von [Bürgerrechte & Polizei/CILIP](https://de.wikipedia.org/wiki/B%C3%BCrgerrechte_%26_Polizei/CILIP)
