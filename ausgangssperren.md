@@ -1,31 +1,25 @@
 Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
-### Bundesweit
+Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
-  - Export von Atemschutzmasken nur noch nach Genehmigung von BMG
-  - keine Veranstaltungen über 1000 Personen
-  - [Schließung von Grenzen zu F, AU,
-    CH](https://www.spiegel.de/politik/deutschland/coronavirus-deutschland-schliesst-grenzen-zu-frankreich-oesterreich-und-der-schweiz-a-9910fb81-f635-4be5-8138-bcbcbfd491d4)
-  - [Leitlinien der Bundesregierungen und Landesregierungen zur
-    Schließung von Geschäften
-    etc.](https://www.bundesregierung.de/breg-de/aktuelles/vereinbarung-zwischen-der-bundesregierung-und-den-regierungschefinnen-und-regierungschefs-der-bundeslaender-angesichts-der-corona-epidemie-in-deutschland-1730934)
+### Bundesweit
 
 ### Länderspezifisch
 
 #### Baden-Württemberg
 
-| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
-| ----- | ---------- | --------- | ---------- | ------ |
-| Kronau (Landkreis Karlsruhe) | [Allgemeinverfuegung](https://www.kronau.de/web/Corona_Startseite/2020-03-20-Allgemeinverfuegung-der-Gemeinde-Kronau-vom-20.03.2020.pdf) | 20.03.2020 | 03.04.2020 - 24:00 | Gültig |
-| Ubstadt-Weiher | [Allgemeinverfügung](https://www.ubstadt-weiher.de/site/Ubstadt-Weiher-2018/get/params_E-1505666000/2442493/Allgemeinverf%C3%BCgung%20Stand%2020-03-2020.pdf) | 20.02.2020 |  03.04.2020 | Gültig |
+| Stadt    | Verordnung                                                                                                                                                                                          | Gültig ab  | Gültig bis | Status |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| Freiburg | [AllgV Ausgangssperre](https://www.freiburg.de/pb/site/Freiburg/get/params_E1141941458/1532235/2020-03-20%20_11-28Uhr_AllgV_Betretungsverbot%C3%96ffentlicheOrte_Ver%C3%B6ffentlichungsversion.pdf) | 21.03.2020 | 03.04.2020 | Gültig |
+|          |                                                                                                                                                                                                     |            |            |        |
 
 #### Bayern
 
-| Stadt       | Verordnung                                                                                           | Gültig ab  | Gültig bis | Status |
-| ----------- | ---------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
-| Mitterteich | [AllgV zur Ausgangssperre](https://www.kreis-tir.de/fileadmin/user_upload/Ausgangssperre_final.pdf) | 18.03.2020 | 02.04.2020 | Gültig |
-| Wunsiedel  | [Verfügung zur Ausgangssperre](https://www.landkreis-wunsiedel.de/buergerservice/news/2020/corona-virus-teilweise-ausgangssperre-erlassen) | 19.03.2020 | | Gültig |
-|            |      |  |  |  |
+| Stadt                                                | Verordnung                                                                                                                    | Gültig ab  | Gültig bis | Status |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| Bayern                                               | [AllgV zur Ausgangssperre](https://www.stmi.bayern.de/assets/stmi/med/aktuell/20-03-19_ausgangsbeschr%C3%A4nkung_bayern_.pdf) | 21.03.2020 | 03.04.2020 | Gültig |
+| Mitterteich                                          | [AllgV zur Ausgangssperre](https://www.kreis-tir.de/fileadmin/user_upload/Ausgangssperre_final.pdf)                           | 18.03.2020 | 02.04.2020 | Gültig |
+| Hohenberg & Ortsteil Fischern des Marktes Schirnding | [Sonderamtsblatt zur Ausgangssperre](https://www.landkreis-wunsiedel.de/file/07-2020-sonderamtsblatt.pdf)                     | 19.03.2020 | 03.04.2020 | Gültig |
 
 #### Berlin
 
@@ -74,6 +68,11 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 | Stadt | Verordnung | Gültig ab | Gültig bis | Status |
 | ----- | ---------- | --------- | ---------- | ------ |
 |       |            |           |            |        |
+
+  - [Dorothee Feller](https://de.wikipedia.org/wiki/Dorothee_Feller),
+    Regierungspräsidentin der BezReg Münster, in der WDR Lokalzeit
+    Münsterland, 19.03.20: "Ausgangssperren halte ich nicht für
+    ausgeschlossen" (Zitat verkürzt)
 
 #### Rheinland-Pfalz
 
