@@ -20,6 +20,7 @@ Stand: 19.03.2020 - 16:30Uhr
     Karte](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
   - [Dashboard zur Entwicklung](https://avatorl.org/covid-19/)
   - [European Center for Disease Control](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html)
+  - [Tagesspiegel interaktive Karte nach Landkreisen](https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/)
 
 
 ## Lageinformationen
