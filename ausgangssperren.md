@@ -16,7 +16,7 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
 | Stadt | Verordnung | Gültig ab | Gültig bis | Status |
 | ----- | ---------- | --------- | ---------- | ------ |
-|       |            |           |            |        |
+| Kronau (Landkreis Karlsruhe) | [Allgemeinverfuegung](https://www.kronau.de/web/Corona_Startseite/2020-03-20-Allgemeinverfuegung-der-Gemeinde-Kronau-vom-20.03.2020.pdf) | 20.03.2020 | 03.04.2020 - 24:00 | Gültig |
 
 #### Bayern
 
