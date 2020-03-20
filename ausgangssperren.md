@@ -16,7 +16,7 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
 | Stadt | Verordnung | Gültig ab | Gültig bis | Status |
 | ----- | ---------- | --------- | ---------- | ------ |
-|       |            |           |            |        |
+| Ubstadt-Weiher | [Allgemeinverfügung](https://www.ubstadt-weiher.de/site/Ubstadt-Weiher-2018/get/params_E-1505666000/2442493/Allgemeinverf%C3%BCgung%20Stand%2020-03-2020.pdf) | 20.02.2020 |  03.04.2020 | Gültig |
 
 #### Bayern
 
