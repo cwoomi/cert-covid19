@@ -20,6 +20,7 @@ Stand: 19.03.2020 - 16:30Uhr
     Karte](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
   - [Dashboard zur Entwicklung](https://avatorl.org/covid-19/)
   - [European Center for Disease Control](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html)
+  - [Tagesspiegel interaktive Karte nach Landkreisen](https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/)
 
 
 ## Lageinformationen
@@ -494,6 +495,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
   - [Medizin-Hackathon zum Design eines offenen
     Beatmungsgeräts](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
   - [Aufruf Reparaturanleitungen für medizinischen Geräte zu sammeln](https://www.ifixit.com/News/36354/help-us-crowdsource-repair-information-for-hospital-equipment) bei [iFixit](https://de.wikipedia.org/wiki/IFixit)
+  - [DIY Mask - T-Shirt vs Surgical Mask](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/)
 
 ### Bürger*innenrechte
 
