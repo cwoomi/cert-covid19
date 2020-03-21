@@ -183,7 +183,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
   - [Reisebeschränkungen](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/corona-reisebeschraenkungen.html)
   - [Grenzkontrollen an AT, CH, F, LUX,
     DEN](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/grenzschliessung-corona.html)
-  - [Schutzschildfür Beschäftigte und
+  - [Schutzschild für Beschäftigte und
     Unternehmen](https://www.bmwi.de/Redaktion/DE/Downloads/S-T/schutzschild-fuer-beschaeftigte-und-unternehmen.pdf?__blob=publicationFile&v=14)
 
 ### Länderspezifisch
