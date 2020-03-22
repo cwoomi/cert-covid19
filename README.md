@@ -183,7 +183,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
   - [Reisebeschränkungen](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/corona-reisebeschraenkungen.html)
   - [Grenzkontrollen an AT, CH, F, LUX,
     DEN](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/grenzschliessung-corona.html)
-  - [Schutzschildfür Beschäftigte und
+  - [Schutzschild für Beschäftigte und
     Unternehmen](https://www.bmwi.de/Redaktion/DE/Downloads/S-T/schutzschild-fuer-beschaeftigte-und-unternehmen.pdf?__blob=publicationFile&v=14)
 
 ### Länderspezifisch
@@ -356,7 +356,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
 | [SARS-CoV-2-Bekämpfungsverordnung](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/LandesverordnungCoronaMitUnterschriften.pdf?__blob=publicationFile&v=1)                                                                                                    | 17.03.2020 | 19.04.2020 | Gültig |
 | [Erlass von Allgemeinverfügungen zum Verbot und zur Beschränkung von Kontakten in besonderen öffentlichen Bereichen](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/200314_erlass.html)                                                                      | 16.03.2020 | 19.04.2020 | Gültig |
-| [Erlass zur Beschränkung des Zugangs zu den Inseln, Halligen und Warften an Nordund Ostsee](https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200129_Grippe_Coronavirus_material/200315_erlass_halligen_download.pdf?__blob=publicationFile&v=1) | 16.03.2020 | 19.04.2020 | Gültig |
+| [Erlass zur Beschränkung des Zugangs zu den Inseln, Halligen und Warften an Nord- und Ostsee](https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200129_Grippe_Coronavirus_material/200315_erlass_halligen_download.pdf?__blob=publicationFile&v=1) | 16.03.2020 | 19.04.2020 | Gültig |
 | [Erlass von Allgemeinverfügungen zum Verbot und zur Beschränkung von Angeboten in Kur- und Rehaeinrichtungen sowie in teilstationären Pflegeeinrichtungen](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/Erlass_KurRehaEinrichtungen.html)                  | 16.03.2020 | 19.04.2020 | Gültig |
 | [Steuerliche Maßnahmen zur Unterstützung von durch Corona betroffenen Unternehmen](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/200316_erlass_steuerstundungen.html)                                                                                       | 16.03.2020 | 31.12.2020 | Gültig |
 | [Erlass zum kommunalen Sitzungsdienst](https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/200316_kommunaler_sitzungsdienst.html)                                                                                                                                 | 16.03.2020 | unbegrenzt | Gültig |
