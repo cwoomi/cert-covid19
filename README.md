@@ -332,11 +332,12 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 
 #### Sachsen
 
-| Verordnung                                                                                                                                                          | Erlassen   | Gültig bis                     | Status |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ | ------ |
-| [Maßnahmen anlässlich der Corona-Pandemie: Verbot von Veranstaltungen](https://www.staatsregierung.sachsen.de/download/allgv-corona-veranstaltungen.pdf)            | 19.03.2020 | 20.04.2020                     | Gültig |
-| [Allgemeinverfügung Einstellung des Bildungsbetriebs und Schließung Kinderbetreuung](http://schule-sachsen.de/20_03_16_Allgemeinverfuegung_Corona_Kita_Schulen.pdf) | 18.03.2020 | 17.04.2020                     | Gültig |
-| [Aussetzung Präsenzpflicht Vorbereitungsdienst](http://schule-sachsen.de/20_03_15_Erlass_Praesenzpflicht_Staatspruefungen.pdf)                                      | 17.03.2020 | analog aussetzung Schulbetrieb | Gültig |
+| Verordnung                                                                                                                                                                | Erlassen   | Gültig bis                     | Status   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ | -------- |
+| [Maßnahmen anlässlich der Corona-Pandemie: Verbot von Veranstaltungen](https://www.staatsregierung.sachsen.de/download/allgv-corona-veranstaltungen.pdf)                  | 19.03.2020 | 20.04.2020                     | Abgelöst |
+| [Maßnahmen anlässlich der Corona-Pandemie Verbot von Veranstaltungen](https://www.coronavirus.sachsen.de/download/SMS-Allgemeinverfuegung-Veranstaltungen-2020-03-20.pdf) | 21.03.2020 | 20.04.2020                     | Gültig   |
+| [Allgemeinverfügung Einstellung des Bildungsbetriebs und Schließung Kinderbetreuung](http://schule-sachsen.de/20_03_16_Allgemeinverfuegung_Corona_Kita_Schulen.pdf)       | 18.03.2020 | 17.04.2020                     | Gültig   |
+| [Aussetzung Präsenzpflicht Vorbereitungsdienst](http://schule-sachsen.de/20_03_15_Erlass_Praesenzpflicht_Staatspruefungen.pdf)                                            | 17.03.2020 | analog aussetzung Schulbetrieb | Gültig   |
 
 #### Sachsen-Anhalt
 
