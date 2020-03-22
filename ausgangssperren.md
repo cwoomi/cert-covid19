@@ -1,7 +1,5 @@
 Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
-Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
-
 ### Bundesweit
 
 ### Länderspezifisch
