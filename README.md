@@ -12,6 +12,7 @@ Stand: 20.03.2020 - 23:30Uhr
   - [WHO
     worldwide](https://www.who.int/redirect-pages/page/novel-coronavirus-\(covid-19\)-situation-dashboard)
   - [Deutschland](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
+  - [Niederlande](https://www.rivm.nl/coronavirus-kaart-van-nederland-per-gemeente)
   - [Johns Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
   - [Coronavirus Charts](https://mackuba.eu/corona/)
   - [Coronavirus
