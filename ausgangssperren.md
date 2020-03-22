@@ -90,7 +90,7 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
 | Stadt | Verordnung | Gültig ab | Gültig bis | Status |
 | ----- | ---------- | --------- | ---------- | ------ |
-|       |            |           |            |        |
+| Dresden | [AllgV Ausgangsbeschränkung](https://www.dresden.de/media/pdf/presseamt/Allgemeinverfuegung.pdf) | 21.03.2020 | 04.04.2020 | Gültig |
 
 #### Sachsen-Anhalt
 
