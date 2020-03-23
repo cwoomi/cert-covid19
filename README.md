@@ -78,9 +78,7 @@ Stand: 23.03.2020 - 17:30Uhr
     Pflegepersonal](https://www.sciencedirect.com/science/article/pii/S0196655315000899)
   - [The ICU Student Support project (training material
     De/En)](https://github.com/pwende/Students-Supporting-Critical-Care)
-  - [ICU organization, logistics and repurposing, teaching material, De
-    - USZ
-    CH](http://www.intensivmedizin.usz.ch/fachwissen/seiten/covid-19-epidemics.aspx)
+  - [ICU organization, logistics and repurposing, teaching material, De-USZ-CH](http://www.intensivmedizin.usz.ch/fachwissen/seiten/covid-19-epidemics.aspx)
   - [Empfehlungen für Geburtskliniken bei Verdacht auf
     COVID-19](https://www.aerzteblatt.de/nachrichten/111215/Fachgesellschaft-gibt-Empfehlungen-fuer-Geburtskliniken-bei-Verdacht-auf-COVID-19)
   - [Ethische Überlegungen bei kritischem Verlauf der Covid-19-Pandemie
