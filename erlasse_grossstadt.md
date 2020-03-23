@@ -31,6 +31,11 @@ Bekanntmachungen](https://www.braunschweig.de/politik_verwaltung/bekanntmachunge
 
 ## Nordrhein-Westfalen
 
+**Essen**
+
+  - [Allgemeinverfügung
+    vom 18.03.2020](https://media.essen.de/media/wwwessende/aemter/32/Coronavirus_20200318_Allgemeinverfuegung_Stadt_Essen.pdf)
+
 **Dortmund**
 
   - [Verbot aller öffentlicher
@@ -54,5 +59,13 @@ Bekanntmachungen](https://www.braunschweig.de/politik_verwaltung/bekanntmachunge
 ## Sachsen-Anhalt
 
 ## Schleswig-Holstein
+
+**Kiel**
+
+  - [AllgV zum Verbot und zur Beschränkung von Kontakten in besonderen
+    öffentlichen
+    Bereichen](https://www.kiel.de/de/_data/ortsrecht_bekanntmachungen/root/download.php?typ=bm&fid=bd9f314c5ec98c4336dcd02a85a35f0c)
+  - [AllgV über die Öffnung von bestimmten Verkaufsstellen an
+    Sonntagen](https://www.kiel.de/de/_data/ortsrecht_bekanntmachungen/root/download.php?typ=bm&fid=b42a11b10faca33a01ef9698eb7cde6c)
 
 ## Thüringen
