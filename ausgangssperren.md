@@ -57,10 +57,9 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
 #### Niedersachsen
 
-| Stadt     | Verordnung                 | Gültig ab | Gültig bis | Status |
-| ------------------- | --------------------------------------- | --------- | ---------- | ------ |
-| Grafschaft Bentheim | [AllgV Schliessung Kultur und Freizeit] (https://www.grafschaft-bentheim.de/pics/medien/1_1584721824/2020-03-20_Allgemeinverfuegung-Schliessung_Kultur_und_Freizeit.pdf) | 21.03.2020 | 18.04.2020 | Gültig |
-| Wolfsburg           | [AllgV zur Ausgangssperre] (https://www.wolfsburg.de/~/media/wolfsburg/statistik_daten_fakten/corona/allgemeinverfuegungen/amtsblatt_14_200320.pdf?la=de-DE)             | 21.03.2020 | 05.04.2020 | Gültig |
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+| ----- | ---------- | --------- | ---------- | ------ |
+|       |            |           |            |        |
 
 #### Nordrhein-Westfalen
 
@@ -87,9 +86,10 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
 #### Sachsen
 
-| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
-| ----- | ---------- | --------- | ---------- | ------ |
-| Dresden | [AllgV Ausgangsbeschränkung](https://www.dresden.de/media/pdf/presseamt/Allgemeinverfuegung.pdf) | 21.03.2020 | 04.04.2020 | Gültig |
+| Stadt   | Verordnung                                                                                            | Gültig ab  | Gültig bis | Status |
+| ------- | ----------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------ |
+| Dresden | [AllgV zu Ausgangsbeschränkungen](https://www.dresden.de/media/pdf/presseamt/Allgemeinverfuegung.pdf) | 21.03.2020 | 05.03.2020 | Gültig |
+|         |                                                                                                       |            |            |        |
 
 #### Sachsen-Anhalt
 
