@@ -2,9 +2,10 @@
 
 Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten. Diese Sammlung ist durch unsere Arbeit im [C3 CERT](https://twitter.com/c3cert) entstanden.
 
-Stand: 23.03.2020 - 17:30Uhr
+Stand: 27.03.2020 - 20:00Uhr
 
 ***[Kontakttelefonnummern](/helplines.md)***
+***[CERT Bulletin](https://bulletin.cert.ccc.de)
 
 
 ## Dashboards
@@ -46,6 +47,7 @@ Stand: 23.03.2020 - 17:30Uhr
 
 ## Prophylaxe / Maßnahmen
 
+
   - [Händedesinfektionsmittel - Hausrezept der
     WHO](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf?ua=1)
   - [Offizielle Zulassung 2-Propanol-haltiger
@@ -86,6 +88,39 @@ Stand: 23.03.2020 - 17:30Uhr
     Deutschland](https://www.anaesthesie.news/aktuelles/allokation-intensivmedizinischer-ressourcen-aus-anlass-der-covid-19-pandemie/)
   - [Assessment-Bogen für die
     Intensiv-Triage](https://cloud.dr-ammon.de/index.php/s/cQRq4dy7LQxgSdx/download)
+  - [Kostenloser Kurs der WHO zur Vorbereitung auf die Behandlung, den
+    Umgang mit den Covid-Patienten und den Vorsichtsmaßnahmen, die zu
+    treffen sind](https://openwho.org/courses/COVID-19-IPC-EN)
+  - [Optionen zum Management von Kontaktpersonen unter medizinischem
+    Personal bei
+    Personalmangel](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/HCW.html)
+  - [Hinweise zum ambulanten Management von COVID-19-Verdachtsfällen und
+    leicht erkrankten bestätigten
+    COVID-19-Patienten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/ambulant.html)
+  - [Empfehlungen zum Umgang mit COVID-19
+    Verstorbenen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Verstorbene.html)
+  - [Häusliche Isolierung bei bestätigter COVID-19-Erkrankung für
+    Patienten und
+    Angehörige](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Flyer_Patienten.pdf?__blob=publicationFile)
+  - [Verdachtsabklärung und MaßnahmenOrientierungshilfe für Ärztinnen
+    und
+    Ärzte](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf?__blob=publicationFile)
+  - [Häusliche Isolierung von CoViD-19-Fällen mit leichtem
+    Krankheitsbild und
+    Verdachtsfällen](https://www.awmf.org/fileadmin/user_upload/Leitlinien/053_D_Ges_fuer_Allgemeinmedizin_und_Familienmedizin/054-054hi_S1_Neues_CORONA_Virus_2020-03.pdf)
+  - [Handlungsempfehlungen zur
+    Pneumonieprophylaxe](https://www.dbfk.de/media/docs/regionalverbaende/rvno/AGPQ/AGPQ-Handlungsempfehlung-Pneumonieprophylaxe-2.0-2017_2.pdf)
+  - [Handlungsempfehlung mehrerer Berufsverbände zu der schwierigen
+    klinisch-ethischen Frage in dem wahrscheinlichen Allokationsproblem
+    der medizinischen
+    Ressourcen](https://dynamic.faz.net/download/2020//COVID-19_Ethik_Empfehlung_Endfassung_2020-03-25.pdf)
+  - [Bundesärztekammer ruft Bürger dazu auf, selbstgemachte Schutzmasken
+    in der Öffentlichkeit zu
+    tragen](https://www.bundesaerztekammer.de/presse/pressemitteilungen/news-detail/reinhardt-raet-zum-tragen-von-einfachen-schutzmasken/)
+  - [Eine staatl. geförderte Arbeit aus Singapur hat, basierend auf
+    einem Simulationsmodell für Influenza, die Wirkung einiger Maßnahmen
+    zu \#flattenthecurve
+    simuliert](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30162-6/fulltext)
 
 ## Diagnostik
 
@@ -97,6 +132,9 @@ Stand: 23.03.2020 - 17:30Uhr
     Ärzte](http://multimedia.gsb.bund.de/RKI/Flowcharts/covid19-arzt/)
   - [Symptoms near the time of presentation in various cohorts, via
     emcrit](https://i1.wp.com/emcrit.org/wp-content/uploads/2020/03/sxjpg.jpg)
+  - [Daten aus China deuten auf eine ggf. erhöhte Rate kardialer
+    Schädigungen, im Laufe einer
+    COVID-19-Infektion](https://jamanetwork.com/journals/jamacardiology/fullarticle/2763524)
 
 ## Therapie
 
@@ -126,6 +164,17 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
   - [Surviving Sepsis Campaign hat (noch uneditierte) Guidelines für die
     Intensivtherapie von erwachsenen
     Covid-19-Patienten](https://www.esicm.org/wp-content/uploads/2020/03/SSC-COVID19-GUIDELINES.pdf)
+  - [Handlungsempfehlung zur Therapie von Patient\*innenmit COVID-19 aus
+    palliativmedizinischer
+    Perspektive](https://www.awmf.org/uploads/tx_szleitlinien/128-001l_S1_palliative_Therapie_bei_COVID-19_2020-03.pdf)
+  - [SOP zur Therapie
+    COVID-19-Patient\*innen](https://bulletin.cert.ccc.de/papers/2020-03-23_BLL_Therapie_von_COVID-19-Patienten.pdf)
+  - [SOP zur Intubation/Bronchoskopie von
+    COVID-19-Patient\*innen](https://bulletin.cert.ccc.de/papers/2020-03-23_BLL_Vorgehen_bei_ITN_unter_COVID-19.pdf)
+  - [Empfehlung der Schweizer Fachgesellschaft für Intensivmedizin zu
+    klinischen Aufnahmekriterien von COVID-19-Fällen auf Intensiv- und
+    Überwachungsstationen
+    herausgegeben](https://smw.ch/article/doi/smw.2020.20227)
 
 ## Testtherapien / Forschung
 
@@ -150,6 +199,10 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
     Quarantäne](https://www.aerzteblatt.de/nachrichten/111205/COVID-19-Chinesen-leiden-unter-Angst-und-Schlafstoerungen-waehrend-der-Quarantaene)
   - [Stellungnahme zur Covid-19-Pandemie des
     EbM-Netzwerks](https://www.ebm-netzwerk.de/de/medien/pdf/stn-20200320-covid-19-ebmnetzwerk.pdf?fbclid=IwAR2__I9272jXqBfNXDdFUkOQ6rXnWFov674i9tK42kQ5M7L6KIMtb2taPUg)
+  - [WHO testet in globaler Studie 4 Therapeutika auf Wirkung bei
+    COVID-19](https://www.aerzteblatt.de/nachrichten/111267/WHO-testet-in-globaler-Studie-4-Therapeutika-auf-Wirkung-bei-COVID-19)
+  - [Temporal dynamics in viral shedding and transmissibility of
+    COVID-19](https://www.medrxiv.org/content/10.1101/2020.03.15.20036707v2)
 
 ## Risikofaktoren
 
@@ -168,6 +221,8 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
     Deaths](https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/)
   - [Risiko-Studien zu Erkrankung von
     Kindern](http://www.cidrap.umn.edu/news-perspective/2020/03/childrens-covid-19-risks-unique-chinese-studies-find)
+  - [Sterblichkeitsrate des Coronavirus (COVID-19) nach Vorerkrankung im
+    Februar 2020](https://de.statista.com/statistik/daten/studie/1102109/umfrage/mortalitaetsrate-des-coronavirus-nach-vorerkrankung/)
 
 ## Erlasse
 
@@ -201,6 +256,14 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
     Unternehmen](https://www.bmwi.de/Redaktion/DE/Downloads/S-T/schutzschild-fuer-beschaeftigte-und-unternehmen.pdf?__blob=publicationFile&v=14)
   - [Erweiterung der Leitlinien zur Einschränkung der sozialen
     Kontakte](https://www.bundesregierung.de/resource/blob/975226/1733246/e6d6ae0e89a7ffea1ebf6f32cf472736/2020-03-22-mpk-data.pdf?download=1)
+  - [Gesetzesentwurf zum Schutz der Bevölkerung (19/18111), beschlossen
+    am 25.03.2020](http://dip21.bundestag.de/dip21/btd/19/181/1918111.pdf)
+  - [Gesetzesentwurf zur finanziellen Entlastung der Krankenhäuser und
+    weiterer Gesundheitseinrichtungen (19/18112), beschlossen
+    am 25.03.2020](http://dip21.bundestag.de/dip21/btd/19/181/1918112.pdf)
+  - [Erleichterten Zugang zu sozialer Sicherung angesichts der Pandemie
+    (19/18107), beschlossen
+    am 25.03.2020](http://dip21.bundestag.de/dip21/btd/19/181/1918107.pdf)
 
 ### Länderspezifisch
 
@@ -235,6 +298,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | [Feststellung des Katastrophenfalls](https://www.verkuendung-bayern.de/files/baymbl/2020/115/baymbl-2020-115.pdf)                                                                                                                                                | 16.03.2020 | unbegrenzt | Gültig               |
 | [Bayerischer Landes-Sport Verband: Einstellung sämtlicher Sport Trainings-, Schulung- und Wettkampfveranstaltungen](https://www.blsv.de/fileadmin/user_upload/pdf/Corona/Pressemitteilung.pdf)                                                                   | 13.03.2020 | 19.04.2020 | NGO / Verband        |
 | [AllgV zur Verschiebung elektiver Eingriffe und geplanter Maßnahmen](https://www.stmgp.bayern.de/wp-content/uploads/2020/03/verbot-elektive-faelle-in-kh-v-19-03-2020.pdf)                                                                                       | 20.03.2020 | 15.05.2020 | Gültig               |
+| [Infektionsschutzgesetz](http://www1.bayern.landtag.de/www/ElanTextAblage_WP18/Drucksachen/Folgedrucksachen/0000005500/0000005503.pdf)                                                                                                                           | 27.03.2020 | 31.12.2020 | Gültig               |
 |                                                                                                                                                                                                                                                                  |            |            |                      |
 
 #### Berlin
@@ -552,3 +616,7 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
     O2-Y-Stück](https://twitter.com/TahaMD_EM/status/1238017888897900544)
   - [Medizin-Hackathon zum Design eines offenen
     Beatmungsgeräts](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
+  - [Das MIT entwickelt inzwischen auch ein
+    Beatmungsgerät](https://e-vent.mit.edu/)
+  - [Selbstbau PAPR (Powered Air-Purifying
+    Respirator)](https://www.youtube.com/watch?v=oS6GA83nbds)
