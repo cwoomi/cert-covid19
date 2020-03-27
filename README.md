@@ -5,7 +5,8 @@ Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es g
 Stand: 27.03.2020 - 20:00Uhr
 
 ***[Kontakttelefonnummern](/helplines.md)***
-***[CERT Bulletin](https://bulletin.cert.ccc.de)
+
+***[CERT Bulletin](https://bulletin.cert.ccc.de)***
 
 
 ## Dashboards
