@@ -1,5 +1,8 @@
 # Informationssammlung zum Thema CoVid-19.
 
+Aktuell arbeiten wir an einer automatisierung der Updates dieses gits. Daher aktuell etwas weniger manuelle updates.
+
+
 Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten. Diese Sammlung ist durch unsere Arbeit im [C3 CERT](https://twitter.com/c3cert) entstanden.
 
 Stand: 27.03.2020 - 20:00Uhr
