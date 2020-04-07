@@ -66,6 +66,7 @@ Prophylaxe / Maßnahmen
 -   [Eine staatl. geförderte Arbeit aus Singapur hat, basierend auf einem Simulationsmodell für Influenza, die Wirkung einiger Maßnahmen zu \#flattenthecurve simuliert ](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30162-6/fulltext)
 -   [Umgang mit Personal der kritischen Infrastruktur in Situationen mit relevantem Personalmangel im Rahmen der COVID-19-Pandemie des RKI ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Personal_KritIs.html)
 -   [Optionen zum Management von Kontaktpersonen unter Personal von Alten- und Pflegeeinrichtungen in Situationen mit Personalmangel vom RKI ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Personal_Pflege.html)
+-   [Umfangreiche und stetig aktualisierte Zusammenstellung von Vorgehensweisen und Techniken ](https://m4mvscovid.de/)
 
 Diagnostik
 ----------
@@ -80,6 +81,7 @@ Diagnostik
 -   [Auch als genesene Patienten können noch Keime ausscheiden ](https://annals.org/aim/fullarticle/2764036/sars-cov-2-positive-sputum-feces-after-conversion-pharyngeal-samples)
 -   [Um die Testkapazität der PCR-Testung weiter zu erhöhen, wird u.a. eine gepoolte Testung, analog des Blutspendewesens diskutiert ](https://www.aerzteblatt.de/nachrichten/111552/Proben-Pooling-Neues-Verfahren-soll-schnellere-SARS-CoV-2-Testung-ermoeglichen)
 -   [IL-6 könnte in einem frühen Stadium signifikante Aussagen über einen zu erwartenden schweren Verlauf treffen und sich damit für eine Intensiv-Triage eignen ](https://www.medrxiv.org/content/10.1101/2020.04.01.20047381v1?rss=1%22)
+-   [Radiologischer Bildatlas von Radiopaedia (Röntgen, CT und Sonographie) ](https://radiopaedia.org/articles/covid-19-3)
 
 Therapie
 --------
@@ -107,6 +109,12 @@ Therapie
 -   [Webinar Airwaymanagement bei der Versorgung von CoViD-19-Patienten ](https://www.inpass.de/webinarevideos/webinare-themen/webinar-airway-management/)
 -   [EMCrit: Übersicht zu intensivmedizinischen Maßnahmen, für medizinische Fachpersonen ohne intensivmedizinischen Hintergrund ](https://emcrit.org/emcrit/critical-care-for-non-intensivists/)
 
+-   [Metastudie indischer Ärzte zum Einsatz von Chloroquin und Hydrochloroquin bei CoViD-19 ](https://www.sciencedirect.com/science/article/pii/S1871402120300515?via%3Dihub)
+-   [Alles nötige Wissen für die Inbetriebnahme eines Beatmungsgerätes in 7 Minuten ](https://www.youtube.com/watch?v=jxiCZ3zDYsI)
+-   [Zusammenfassung der kardiologischen Auswirkungen von CoViD-19 ](https://www.ncbi.nlm.nih.gov/pubmed/32247212)
+-   [tudie zu möglichen starken anti-viralen Effekt von Indometacin bei SARS-CoV-2 (Studie nicht peer-reviewed, Preprint) ](https://www.biorxiv.org/content/10.1101/2020.04.01.017624v1?rss=1%22)
+-   [Der Protease-Inhibitor Atazanavir, der nicht Teil der SOLIDARITY-Studie ist, könnte eine Wirksamkeit bei CoViD-19 zeigen (Studie nicht peer-reviewed, Preprint) ](https://www.biorxiv.org/content/10.1101/2020.04.04.020925v1?rss=1%22)
+-   [Die Interferone α und β zeigen in Zellkulturen eine gute Wirkung gegen SARS-CoV-2 und könnten einen wirksamen Therapieansatz bilden (Studie nicht peer-reviewed, Preprint) ](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v1?rss=1%22)
 
 Testtherapien / Forschung
 -------------------------
@@ -127,6 +135,7 @@ Testtherapien / Forschung
 -   [Modell-Studie an humanen Atemwegsepithelzellen könnte für Remdesivir und Diltiazem in Kombination als Therapieansatz sprechen ](https://www.biorxiv.org/content/10.1101/2020.03.31.017889v1?rss=1%22)
 -   [Die transmembrane Serinprotease 2 (TMPRSS2) stellt womöglich eine wesentlich wichtigere Rolle als ACE2 bei der Infektion mit SARS-CoV-2 dar ](https://www.medrxiv.org/content/10.1101/2020.03.30.20047878v1?rss=1%22)
 -   [Zusammenfassung der aktuellen Vermutungen bezüglich des Wirkmechanismus des temporären Verlustes des Riechvermögens ](https://www.spektrum.de/news/wie-blockiert-covid-19-den-geruchssinn/1719784)
+-   [Testreihe von Wirkstoffen auf antivirale Eignung gegen SARS-CoV-2 ](https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1?rss=1%22)
 
 Risikofaktoren
 --------------
@@ -305,6 +314,7 @@ Erlasse
 | [Weitere kontaktreduzierende Maßnahmen ](https://www.land.nrw/sites/default/files/asset/document/200315_erlass_weitere_kontaktreduzierende_massnahmen.pdf)                                       | 16.03.2020 | unbegrenzt | Gültig |
 | [Leitlinie zur Bestimmung des Personals kritischer Infrastrukturen ](https://www.mags.nrw/sites/default/files/asset/document/erlass_leitlinie_kritis.pdf)                                        | 15.03.2020 | \      | \  |
 | [Verordnung zum Schutz vor Neuinfizierungen mit dem Coronavirus SARS-CoV-2 ](https://www.land.nrw/sites/default/files/asset/document/2020-03-22_coronaschvo_nrw.pdf)                             | 23.03.2020 | 20.04.2020 | Gültig |
+| [Verordnung zur Regelung von Neu- und Wiederaufnahmen in Pflegeeinrichtungen ](https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&vd_id=18384&ver=8&val=18384&sg=0&menu=1&vd_back=N)       | 06.04.2020 | 20.04.2020 | Gültig |
 |                                                                                                                                                                                                               |            |            |        |
 
 #### Rheinland-Pfalz
