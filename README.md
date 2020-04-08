@@ -32,6 +32,9 @@ Checklisten
 -   [Checkliste für Apotheken ](https://www.apotheke-adhoc.de/fileadmin/user_upload/redaktion/service-downloads/Checkliste_Covid19.pdf)
 -   [Risikoeinschätzung für Veranstalter ](https://www.dresden.de/media/pdf/gesundheit/HYG/Corona_Risikoeinschaetzung_Veranstalter.pdf)
 
+-   [Anleitung von Dräger zur Nutzung von Anästhesiegeräten zur Langzeitbeatmung - Teil 1 ](https://www.draeger.com/Library/Content/Draeger_Nutzung_von_Anaesthesiegeraeten_zur_Langzeitbeatmung.pdf)
+-   [Anleitung von Dräger zur Nutzung von Anästhesiegeräten zur Langzeitbeatmung - Teil 2 ](https://www.draeger.com/Library/Content/Nutzung_von_Anaesthesiegeraete_zur_Langzeitbeatmung_Checkliste.pdf)
+-   [Anleitung von Dräger zur Nutzung des Oxylog zur Langzeitbeatmung ](https://www.draeger.com/Library/Content/COVID-19_Nutzung_Oxylog_Langzeitbeatmung_Kundenschreiben.pdf)
 
 Prophylaxe / Maßnahmen
 ---------------------
