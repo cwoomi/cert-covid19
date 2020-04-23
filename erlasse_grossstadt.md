@@ -53,6 +53,7 @@ Nordrhein-Westfalen
 **Münster**
 
 -   Gem. §§ 16 Abs. 1 Satz 1, 28 Abs. 1 Satz 2 des Gesetzes zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz-IfSG) ergeht zur Verhütung der Weiterverbreitung von SARS-CoV-2 Virus-Infektionen folgende [Allgemeinverfügung vom 18.03.2020 ](https://www.muenster.de/muenster_media/PDF/Allgemeinverf%C3%BCgung.pdf)
+-   Maskenpflicht: "In Bussen und Bahnen, Geschäften oder Dienstgebäuden mit Publikumsverkehr / Selbst genähte Masken nutzen" 
 
 Rheinland-Pfalz
 ---------------
