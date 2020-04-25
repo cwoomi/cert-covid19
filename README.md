@@ -75,6 +75,7 @@ Prophylaxe / Maßnahmen
 -   [DMaßnahmen im Rahmen von Geburt und Schwangerschaftsnachsorge mit CoViD-19-Infektion oder -Verdacht ](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1709688)
 -   [Die American Heart Association (AHA) et al geben spezifisch für CoViD-19-Patienten angepasste Richtlinien zur Reanimation/ALS heraus ](https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.120.047463)
 -   [Studie zur labortechnische Materialdesinfektion mittels Hitze oder Lysepuffern bei SARS-CoV-2 (Studie nicht peer-reviewed, Preprint) ](https://www.biorxiv.org/content/10.1101/2020.04.11.036855v2)
+-   [Untersuchung einer Auswahl haushaltsüblicher Stoffe auf praktische Nutzbarkeit als Maskengrundlage resultierende Effizienz (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.19.20071779v1)
 
 Diagnostik
 ----------
@@ -94,6 +95,7 @@ Diagnostik
 -   [Laut einer Single-Center-Studie (n=81) erleiden 25% der Patienten bei schwerem Verlauf von CoViD-19 eine tiefe Beinvenenthrombose ](https://onlinelibrary.wiley.com/doi/abs/10.1111/jth.14830)
 -   [Case-Studie zum Krankheitsverlauf zweier Patienten, die neben CoViD-19 zusätzlich Encephalitis-Symptome entwickelten, welche unbehandelt mit Abebben der CoViD-Infektion verschwanden. (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.17.20060251v1)
 -   [Das erste Testkit für den Heimgebrauch wurde von der FDA zugelassen ](https://www.pixel.labcorp.com/at-home-test-kits/covid-19-test)
+-   [RKI sagt es sollen Test der oberen und unteren Atemwege gemacht werden ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html)
 
 Therapie
 --------
@@ -165,6 +167,8 @@ Testtherapien / Forschung
 -   [Studie betrachtet die Variabilität des ACE2-Rezeptors über Speziesgrenzen hinweg und stellt Prognosen bezüglich tierischer Zwischen- und Reservoirwirte für den Virus auf. (Studie nicht peer-reviewed, Preprint) ](https://www.biorxiv.org/content/10.1101/2020.04.16.045302v1)
 -   [Abschätzung von Anzahl der Infektionen durch Vergleich der Bevölkerungsmortalität im Vergleich zu den 5 Jahren zuvor in Italien (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v1)
 -   [Post-mortem histologische Untersuchung von 38 Lungen, auffällig waren multiple Thromben in den kleinen Lungenarterien bei gleichzeitig erhöhten D-Dimeren (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.19.20054262v1)
+-   [Mathematische Modelierung des Pandemieverlaufs in Deutschland und Polenmit dem Ergebnis, dass die Strategie einer Herdenimmunität ohne Überlastung des Gesundheitssystems wahrscheinlich nicht erfolgreich sein wird (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.03.25.20043109v1.full.pdf)
+-   [Studie zu Schäden am Herzen bei 2700 Covid19-Patienten in New York City findet bei ca. 40% der Fälle mit erhöhtem Troponin eine Myokardschädigung. (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.20.20072702v1)
 
 Risikofaktoren
 --------------
@@ -182,6 +186,7 @@ Risikofaktoren
 -   [Personal im Gesundheitswesen leidet während der COVID-19-Epidemie deutlich häufiger an schwerer Schlaflosigkeit, Angstzuständen, Depressionen, Somatisierungsstörungen und Zwangssymptomen ](https://www.karger.com/Article/FullText/507639)
 -   [Übergewicht ein erheblicher Risikofaktor für einen schweren Verlauf von CoViD-19 - Studie 1 ](https://onlinelibrary.wiley.com/doi/epdf/10.1002/oby.22831)
 -   [Übergewicht ein erheblicher Risikofaktor für einen schweren Verlauf von CoViD-19 - Studie 2 ](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa415/5818333)
+-   [Laut einer Studie mit 360 Patienten sind weder ACE-Hemmer noch ARBs Risikofaktoren ](https://jamanetwork.com/journals/jamacardiology/fullarticle/2765049)
 
 Erlasse
 -------
