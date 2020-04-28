@@ -96,6 +96,7 @@ Diagnostik
 -   [Case-Studie zum Krankheitsverlauf zweier Patienten, die neben CoViD-19 zusätzlich Encephalitis-Symptome entwickelten, welche unbehandelt mit Abebben der CoViD-Infektion verschwanden. (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.17.20060251v1)
 -   [Das erste Testkit für den Heimgebrauch wurde von der FDA zugelassen ](https://www.pixel.labcorp.com/at-home-test-kits/covid-19-test)
 -   [RKI sagt es sollen Test der oberen und unteren Atemwege gemacht werden ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html)
+-   [Die Deutsche Gesellschaft für Ultraschall in der Medizin hat ein Protokoll für ein strukturiertes Lungenultraschall entwickelt ](https://www.degum.de/nc/aktuelles/degum-ultraschall/im-detail/news/anleitung-zum-lungenultraschall-bei-verdacht-auf-covid-19.html)
 
 Therapie
 --------
