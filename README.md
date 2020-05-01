@@ -187,7 +187,8 @@ Risikofaktoren
 -   [Personal im Gesundheitswesen leidet während der COVID-19-Epidemie deutlich häufiger an schwerer Schlaflosigkeit, Angstzuständen, Depressionen, Somatisierungsstörungen und Zwangssymptomen ](https://www.karger.com/Article/FullText/507639)
 -   [Übergewicht ein erheblicher Risikofaktor für einen schweren Verlauf von CoViD-19 - Studie 1 ](https://onlinelibrary.wiley.com/doi/epdf/10.1002/oby.22831)
 -   [Übergewicht ein erheblicher Risikofaktor für einen schweren Verlauf von CoViD-19 - Studie 2 ](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa415/5818333)
--   [Laut einer Studie mit 360 Patienten sind weder ACE-Hemmer noch ARBs Risikofaktoren ](https://jamanetwork.com/journals/jamacardiology/fullarticle/2765049)
+\[<https://jamanetwork.com/journals/jamacardiology/fullarticle/2765049> Laut einer Studie mit 360 Patienten sind weder ACE-Hemmer noch ARBs Risikofaktoren
+-   [Studie zur Überlebensfähigkeit von Viren unter verschiedenen Umweltbedingungen, diesmal mit der Überprüfung auf den Erhalt der Infektionsfähigkeit ](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)
 
 Erlasse
 -------
