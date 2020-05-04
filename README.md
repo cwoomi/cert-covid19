@@ -97,6 +97,7 @@ Diagnostik
 -   [Das erste Testkit für den Heimgebrauch wurde von der FDA zugelassen ](https://www.pixel.labcorp.com/at-home-test-kits/covid-19-test)
 -   [RKI sagt es sollen Test der oberen und unteren Atemwege gemacht werden ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html)
 -   [Die Deutsche Gesellschaft für Ultraschall in der Medizin hat ein Protokoll für ein strukturiertes Lungenultraschall entwickelt ](https://www.degum.de/nc/aktuelles/degum-ultraschall/im-detail/news/anleitung-zum-lungenultraschall-bei-verdacht-auf-covid-19.html)
+-   [Anhand der im Blut vorhandenen Menge an weißen Blutzellen lässt sich anscheinend ein Score aufstellen, welcher die Wahrscheinlichkeit einer SARS-CoV-2-Infektion abzubilden vermag (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.28.20081687v1)
 
 Therapie
 --------
@@ -170,6 +171,8 @@ Testtherapien / Forschung
 -   [Post-mortem histologische Untersuchung von 38 Lungen, auffällig waren multiple Thromben in den kleinen Lungenarterien bei gleichzeitig erhöhten D-Dimeren (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.19.20054262v1)
 -   [Mathematische Modelierung des Pandemieverlaufs in Deutschland und Polenmit dem Ergebnis, dass die Strategie einer Herdenimmunität ohne Überlastung des Gesundheitssystems wahrscheinlich nicht erfolgreich sein wird (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.03.25.20043109v1.full.pdf)
 -   [Studie zu Schäden am Herzen bei 2700 Covid19-Patienten in New York City findet bei ca. 40% der Fälle mit erhöhtem Troponin eine Myokardschädigung. (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.20.20072702v1)
+-   [Die Studie konnten 69 Medikamente identifizieren, welche potentiell die Interaktionen von SARS-CoV-2 mit menschlichen Zellen stören. 47 davon wurden anschließend in vitro auf die Auswirkungen der Modulation hin untersucht. Dabei stellten sich mRNA-Translationsinhibitoren sowie SigmaR1/2-Rezeptorregulatoren als wahrscheinlich virushemmend, Dextromethorphan jedoch als virusproliferierend heraus ](https://doi.org/10.1038/s41586-020-2286-9)
+-   [Studie zu den Effekten von nicht-pharmazeutische Interventionen, um die Infektionen mit CoViD-19 zu reduzieren ](https://www.nature.com/articles/s41586-020-2293-x)
 
 Risikofaktoren
 --------------
